@@ -1,0 +1,3437 @@
+rank,target,type,position,score
+1,TLR2_ectodomain,peptide,1,0.492367
+1,TLR2_ectodomain,peptide,2,0.494661
+1,TLR2_ectodomain,peptide,3,0.497177
+1,TLR2_ectodomain,peptide,4,0.494713
+1,TLR2_ectodomain,peptide,5,0.496321
+1,TLR2_ectodomain,peptide,6,0.490883
+1,TLR2_ectodomain,peptide,7,0.494057
+1,TLR2_ectodomain,peptide,8,0.494121
+1,TLR2_ectodomain,peptide,9,0.493104
+1,TLR2_ectodomain,peptide,10,0.495600
+1,TLR2_ectodomain,peptide,11,0.493896
+1,TLR2_ectodomain,peptide,12,0.495478
+1,TLR2_ectodomain,peptide,13,0.491958
+1,TLR2_ectodomain,peptide,14,0.495170
+1,TLR2_ectodomain,peptide,15,0.496933
+1,TLR2_ectodomain,peptide,16,0.494816
+1,TLR2_ectodomain,peptide,17,0.494009
+1,TLR2_ectodomain,peptide,18,0.494836
+1,TLR2_ectodomain,peptide,19,0.494017
+1,TLR2_ectodomain,peptide,20,0.493701
+1,TLR2_ectodomain,peptide,21,0.492415
+1,TLR2_ectodomain,peptide,22,0.494074
+1,TLR2_ectodomain,peptide,23,0.493744
+1,TLR2_ectodomain,peptide,24,0.493111
+1,TLR2_ectodomain,peptide,25,0.492954
+1,TLR2_ectodomain,peptide,26,0.494002
+1,TLR2_ectodomain,protein,1,0.492941
+1,TLR2_ectodomain,protein,2,0.492925
+1,TLR2_ectodomain,protein,3,0.493842
+1,TLR2_ectodomain,protein,4,0.492205
+1,TLR2_ectodomain,protein,5,0.493927
+1,TLR2_ectodomain,protein,6,0.492926
+1,TLR2_ectodomain,protein,7,0.493238
+1,TLR2_ectodomain,protein,8,0.491768
+1,TLR2_ectodomain,protein,9,0.492966
+1,TLR2_ectodomain,protein,10,0.493691
+1,TLR2_ectodomain,protein,11,0.491564
+1,TLR2_ectodomain,protein,12,0.495307
+1,TLR2_ectodomain,protein,13,0.495318
+1,TLR2_ectodomain,protein,14,0.494959
+1,TLR2_ectodomain,protein,15,0.497122
+1,TLR2_ectodomain,protein,16,0.493158
+1,TLR2_ectodomain,protein,17,0.492933
+1,TLR2_ectodomain,protein,18,0.494329
+1,TLR2_ectodomain,protein,19,0.494818
+1,TLR2_ectodomain,protein,20,0.493920
+1,TLR2_ectodomain,protein,21,0.494518
+1,TLR2_ectodomain,protein,22,0.492129
+1,TLR2_ectodomain,protein,23,0.494308
+1,TLR2_ectodomain,protein,24,0.492879
+1,TLR2_ectodomain,protein,25,0.494347
+1,TLR2_ectodomain,protein,26,0.491948
+1,TLR2_ectodomain,protein,27,0.493166
+1,TLR2_ectodomain,protein,28,0.491991
+1,TLR2_ectodomain,protein,29,0.492904
+1,TLR2_ectodomain,protein,30,0.494613
+1,TLR2_ectodomain,protein,31,0.491442
+1,TLR2_ectodomain,protein,32,0.490983
+1,TLR2_ectodomain,protein,33,0.489488
+1,TLR2_ectodomain,protein,34,0.490443
+1,TLR2_ectodomain,protein,35,0.494642
+1,TLR2_ectodomain,protein,36,0.494384
+1,TLR2_ectodomain,protein,37,0.492924
+1,TLR2_ectodomain,protein,38,0.493134
+1,TLR2_ectodomain,protein,39,0.488405
+1,TLR2_ectodomain,protein,40,0.489842
+1,TLR2_ectodomain,protein,41,0.494174
+1,TLR2_ectodomain,protein,42,0.489331
+1,TLR2_ectodomain,protein,43,0.491225
+1,TLR2_ectodomain,protein,44,0.492670
+1,TLR2_ectodomain,protein,45,0.492961
+1,TLR2_ectodomain,protein,46,0.496653
+1,TLR2_ectodomain,protein,47,0.492622
+1,TLR2_ectodomain,protein,48,0.494834
+1,TLR2_ectodomain,protein,49,0.493772
+1,TLR2_ectodomain,protein,50,0.492625
+1,TLR2_ectodomain,protein,51,0.494428
+1,TLR2_ectodomain,protein,52,0.493761
+1,TLR2_ectodomain,protein,53,0.493127
+1,TLR2_ectodomain,protein,54,0.491372
+1,TLR2_ectodomain,protein,55,0.491049
+1,TLR2_ectodomain,protein,56,0.493419
+1,TLR2_ectodomain,protein,57,0.492808
+1,TLR2_ectodomain,protein,58,0.492615
+1,TLR2_ectodomain,protein,59,0.493556
+1,TLR2_ectodomain,protein,60,0.488360
+1,TLR2_ectodomain,protein,61,0.495269
+1,TLR2_ectodomain,protein,62,0.487009
+1,TLR2_ectodomain,protein,63,0.491420
+1,TLR2_ectodomain,protein,64,0.496439
+1,TLR2_ectodomain,protein,65,0.494856
+1,TLR2_ectodomain,protein,66,0.497287
+1,TLR2_ectodomain,protein,67,0.498751
+1,TLR2_ectodomain,protein,68,0.490303
+1,TLR2_ectodomain,protein,69,0.492809
+1,TLR2_ectodomain,protein,70,0.495236
+1,TLR2_ectodomain,protein,71,0.494487
+1,TLR2_ectodomain,protein,72,0.492303
+1,TLR2_ectodomain,protein,73,0.494639
+1,TLR2_ectodomain,protein,74,0.493282
+1,TLR2_ectodomain,protein,75,0.492793
+1,TLR2_ectodomain,protein,76,0.494561
+1,TLR2_ectodomain,protein,77,0.490108
+1,TLR2_ectodomain,protein,78,0.495571
+1,TLR2_ectodomain,protein,79,0.493649
+1,TLR2_ectodomain,protein,80,0.497232
+1,TLR2_ectodomain,protein,81,0.493980
+1,TLR2_ectodomain,protein,82,0.495703
+1,TLR2_ectodomain,protein,83,0.496681
+1,TLR2_ectodomain,protein,84,0.491686
+1,TLR2_ectodomain,protein,85,0.494839
+1,TLR2_ectodomain,protein,86,0.489828
+1,TLR2_ectodomain,protein,87,0.494259
+1,TLR2_ectodomain,protein,88,0.494752
+1,TLR2_ectodomain,protein,89,0.498108
+1,TLR2_ectodomain,protein,90,0.495902
+1,TLR2_ectodomain,protein,91,0.494998
+1,TLR2_ectodomain,protein,92,0.490130
+1,TLR2_ectodomain,protein,93,0.492711
+1,TLR2_ectodomain,protein,94,0.496385
+1,TLR2_ectodomain,protein,95,0.491283
+1,TLR2_ectodomain,protein,96,0.493917
+1,TLR2_ectodomain,protein,97,0.494502
+1,TLR2_ectodomain,protein,98,0.493680
+1,TLR2_ectodomain,protein,99,0.497556
+1,TLR2_ectodomain,protein,100,0.494990
+1,TLR2_ectodomain,protein,101,0.496004
+1,TLR2_ectodomain,protein,102,0.495739
+1,TLR2_ectodomain,protein,103,0.495491
+1,TLR2_ectodomain,protein,104,0.496846
+1,TLR2_ectodomain,protein,105,0.494550
+1,TLR2_ectodomain,protein,106,0.494824
+1,TLR2_ectodomain,protein,107,0.497283
+1,TLR2_ectodomain,protein,108,0.488847
+1,TLR2_ectodomain,protein,109,0.496951
+1,TLR2_ectodomain,protein,110,0.493630
+1,TLR2_ectodomain,protein,111,0.493864
+1,TLR2_ectodomain,protein,112,0.494105
+1,TLR2_ectodomain,protein,113,0.495404
+1,TLR2_ectodomain,protein,114,0.498639
+1,TLR2_ectodomain,protein,115,0.492681
+1,TLR2_ectodomain,protein,116,0.492108
+1,TLR2_ectodomain,protein,117,0.490267
+1,TLR2_ectodomain,protein,118,0.495333
+1,TLR2_ectodomain,protein,119,0.493238
+1,TLR2_ectodomain,protein,120,0.491399
+1,TLR2_ectodomain,protein,121,0.494730
+1,TLR2_ectodomain,protein,122,0.491361
+1,TLR2_ectodomain,protein,123,0.499879
+1,TLR2_ectodomain,protein,124,0.494913
+1,TLR2_ectodomain,protein,125,0.495601
+1,TLR2_ectodomain,protein,126,0.497594
+1,TLR2_ectodomain,protein,127,0.495148
+1,TLR2_ectodomain,protein,128,0.497977
+1,TLR2_ectodomain,protein,129,0.495428
+1,TLR2_ectodomain,protein,130,0.495333
+1,TLR2_ectodomain,protein,131,0.495796
+1,TLR2_ectodomain,protein,132,0.492018
+1,TLR2_ectodomain,protein,133,0.494576
+1,TLR2_ectodomain,protein,134,0.487869
+1,TLR2_ectodomain,protein,135,0.491822
+1,TLR2_ectodomain,protein,136,0.496156
+1,TLR2_ectodomain,protein,137,0.495886
+1,TLR2_ectodomain,protein,138,0.494723
+1,TLR2_ectodomain,protein,139,0.493534
+1,TLR2_ectodomain,protein,140,0.493945
+1,TLR2_ectodomain,protein,141,0.492288
+1,TLR2_ectodomain,protein,142,0.493012
+1,TLR2_ectodomain,protein,143,0.494792
+1,TLR2_ectodomain,protein,144,0.492584
+1,TLR2_ectodomain,protein,145,0.493768
+1,TLR2_ectodomain,protein,146,0.495186
+1,TLR2_ectodomain,protein,147,0.491360
+1,TLR2_ectodomain,protein,148,0.499834
+1,TLR2_ectodomain,protein,149,0.494209
+1,TLR2_ectodomain,protein,150,0.495224
+1,TLR2_ectodomain,protein,151,0.495697
+1,TLR2_ectodomain,protein,152,0.496146
+1,TLR2_ectodomain,protein,153,0.495670
+1,TLR2_ectodomain,protein,154,0.495993
+1,TLR2_ectodomain,protein,155,0.495407
+1,TLR2_ectodomain,protein,156,0.498657
+1,TLR2_ectodomain,protein,157,0.491602
+1,TLR2_ectodomain,protein,158,0.494756
+1,TLR2_ectodomain,protein,159,0.493561
+1,TLR2_ectodomain,protein,160,0.493947
+1,TLR2_ectodomain,protein,161,0.494177
+1,TLR2_ectodomain,protein,162,0.493404
+1,TLR2_ectodomain,protein,163,0.493310
+1,TLR2_ectodomain,protein,164,0.496118
+1,TLR2_ectodomain,protein,165,0.494765
+1,TLR2_ectodomain,protein,166,0.492703
+1,TLR2_ectodomain,protein,167,0.490886
+1,TLR2_ectodomain,protein,168,0.494828
+1,TLR2_ectodomain,protein,169,0.490835
+1,TLR2_ectodomain,protein,170,0.492388
+1,TLR2_ectodomain,protein,171,0.495701
+1,TLR2_ectodomain,protein,172,0.492158
+1,TLR2_ectodomain,protein,173,0.497410
+1,TLR2_ectodomain,protein,174,0.494776
+1,TLR2_ectodomain,protein,175,0.497363
+1,TLR2_ectodomain,protein,176,0.494655
+1,TLR2_ectodomain,protein,177,0.493594
+1,TLR2_ectodomain,protein,178,0.495230
+1,TLR2_ectodomain,protein,179,0.495059
+1,TLR2_ectodomain,protein,180,0.497123
+1,TLR2_ectodomain,protein,181,0.497948
+1,TLR2_ectodomain,protein,182,0.494540
+1,TLR2_ectodomain,protein,183,0.490674
+1,TLR2_ectodomain,protein,184,0.494696
+1,TLR2_ectodomain,protein,185,0.493965
+1,TLR2_ectodomain,protein,186,0.492719
+1,TLR2_ectodomain,protein,187,0.496302
+1,TLR2_ectodomain,protein,188,0.494590
+1,TLR2_ectodomain,protein,189,0.494794
+1,TLR2_ectodomain,protein,190,0.490922
+1,TLR2_ectodomain,protein,191,0.492499
+1,TLR2_ectodomain,protein,192,0.492234
+1,TLR2_ectodomain,protein,193,0.490506
+1,TLR2_ectodomain,protein,194,0.493721
+1,TLR2_ectodomain,protein,195,0.494179
+1,TLR2_ectodomain,protein,196,0.495205
+1,TLR2_ectodomain,protein,197,0.496254
+1,TLR2_ectodomain,protein,198,0.493895
+1,TLR2_ectodomain,protein,199,0.494386
+1,TLR2_ectodomain,protein,200,0.494323
+1,TLR2_ectodomain,protein,201,0.493733
+1,TLR2_ectodomain,protein,202,0.495648
+1,TLR2_ectodomain,protein,203,0.495536
+1,TLR2_ectodomain,protein,204,0.498168
+1,TLR2_ectodomain,protein,205,0.494216
+1,TLR2_ectodomain,protein,206,0.492249
+1,TLR2_ectodomain,protein,207,0.496323
+1,TLR2_ectodomain,protein,208,0.493382
+1,TLR2_ectodomain,protein,209,0.492754
+1,TLR2_ectodomain,protein,210,0.493296
+1,TLR2_ectodomain,protein,211,0.494062
+1,TLR2_ectodomain,protein,212,0.493589
+1,TLR2_ectodomain,protein,213,0.492683
+1,TLR2_ectodomain,protein,214,0.492578
+1,TLR2_ectodomain,protein,215,0.493638
+1,TLR2_ectodomain,protein,216,0.491099
+1,TLR2_ectodomain,protein,217,0.491116
+1,TLR2_ectodomain,protein,218,0.492073
+1,TLR2_ectodomain,protein,219,0.491951
+1,TLR2_ectodomain,protein,220,0.495484
+1,TLR2_ectodomain,protein,221,0.492585
+1,TLR2_ectodomain,protein,222,0.495228
+1,TLR2_ectodomain,protein,223,0.494278
+1,TLR2_ectodomain,protein,224,0.492112
+1,TLR2_ectodomain,protein,225,0.494651
+1,TLR2_ectodomain,protein,226,0.492356
+1,TLR2_ectodomain,protein,227,0.494097
+1,TLR2_ectodomain,protein,228,0.493607
+1,TLR2_ectodomain,protein,229,0.495376
+1,TLR2_ectodomain,protein,230,0.495706
+1,TLR2_ectodomain,protein,231,0.494411
+1,TLR2_ectodomain,protein,232,0.490926
+1,TLR2_ectodomain,protein,233,0.493591
+1,TLR2_ectodomain,protein,234,0.492639
+1,TLR2_ectodomain,protein,235,0.494286
+1,TLR2_ectodomain,protein,236,0.490441
+1,TLR2_ectodomain,protein,237,0.494368
+1,TLR2_ectodomain,protein,238,0.490943
+1,TLR2_ectodomain,protein,239,0.491681
+1,TLR2_ectodomain,protein,240,0.489901
+1,TLR2_ectodomain,protein,241,0.490631
+1,TLR2_ectodomain,protein,242,0.489604
+1,TLR2_ectodomain,protein,243,0.490891
+1,TLR2_ectodomain,protein,244,0.490472
+1,TLR2_ectodomain,protein,245,0.492695
+1,TLR2_ectodomain,protein,246,0.491805
+1,TLR2_ectodomain,protein,247,0.492205
+1,TLR2_ectodomain,protein,248,0.493861
+1,TLR2_ectodomain,protein,249,0.494145
+1,TLR2_ectodomain,protein,250,0.494900
+1,TLR2_ectodomain,protein,251,0.493973
+1,TLR2_ectodomain,protein,252,0.495350
+1,TLR2_ectodomain,protein,253,0.493404
+1,TLR2_ectodomain,protein,254,0.491987
+1,TLR2_ectodomain,protein,255,0.494747
+1,TLR2_ectodomain,protein,256,0.493402
+1,TLR2_ectodomain,protein,257,0.494829
+1,TLR2_ectodomain,protein,258,0.493173
+1,TLR2_ectodomain,protein,259,0.492313
+1,TLR2_ectodomain,protein,260,0.494638
+1,TLR2_ectodomain,protein,261,0.497907
+1,TLR2_ectodomain,protein,262,0.493155
+1,TLR2_ectodomain,protein,263,0.489874
+1,TLR2_ectodomain,protein,264,0.492215
+1,TLR2_ectodomain,protein,265,0.492248
+1,TLR2_ectodomain,protein,266,0.489877
+1,TLR2_ectodomain,protein,267,0.490531
+1,TLR2_ectodomain,protein,268,0.493128
+1,TLR2_ectodomain,protein,269,0.494372
+1,TLR2_ectodomain,protein,270,0.492867
+1,TLR2_ectodomain,protein,271,0.491761
+1,TLR2_ectodomain,protein,272,0.490980
+1,TLR2_ectodomain,protein,273,0.492030
+1,TLR2_ectodomain,protein,274,0.493346
+1,TLR2_ectodomain,protein,275,0.495091
+1,TLR2_ectodomain,protein,276,0.494422
+1,TLR2_ectodomain,protein,277,0.493783
+1,TLR2_ectodomain,protein,278,0.495332
+1,TLR2_ectodomain,protein,279,0.492549
+1,TLR2_ectodomain,protein,280,0.494506
+1,TLR2_ectodomain,protein,281,0.495285
+1,TLR2_ectodomain,protein,282,0.493429
+1,TLR2_ectodomain,protein,283,0.495427
+1,TLR2_ectodomain,protein,284,0.494177
+1,TLR2_ectodomain,protein,285,0.494078
+1,TLR2_ectodomain,protein,286,0.495108
+1,TLR2_ectodomain,protein,287,0.489681
+1,TLR2_ectodomain,protein,288,0.492450
+1,TLR2_ectodomain,protein,289,0.493344
+1,TLR2_ectodomain,protein,290,0.493468
+1,TLR2_ectodomain,protein,291,0.489727
+1,TLR2_ectodomain,protein,292,0.492180
+1,TLR2_ectodomain,protein,293,0.493509
+1,TLR2_ectodomain,protein,294,0.492648
+1,TLR2_ectodomain,protein,295,0.491977
+1,TLR2_ectodomain,protein,296,0.491570
+1,TLR2_ectodomain,protein,297,0.491825
+1,TLR2_ectodomain,protein,298,0.490460
+1,TLR2_ectodomain,protein,299,0.490688
+1,TLR2_ectodomain,protein,300,0.489874
+1,TLR2_ectodomain,protein,301,0.491620
+1,TLR2_ectodomain,protein,302,0.490037
+1,TLR2_ectodomain,protein,303,0.492842
+1,TLR2_ectodomain,protein,304,0.492313
+1,TLR2_ectodomain,protein,305,0.491590
+1,TLR2_ectodomain,protein,306,0.493864
+1,TLR2_ectodomain,protein,307,0.493640
+1,TLR2_ectodomain,protein,308,0.495511
+1,TLR2_ectodomain,protein,309,0.493467
+1,TLR2_ectodomain,protein,310,0.495355
+1,TLR2_ectodomain,protein,311,0.494388
+1,TLR2_ectodomain,protein,312,0.493785
+1,TLR2_ectodomain,protein,313,0.493361
+1,TLR2_ectodomain,protein,314,0.495640
+1,TLR2_ectodomain,protein,315,0.494672
+1,TLR2_ectodomain,protein,316,0.493046
+1,TLR2_ectodomain,protein,317,0.492805
+1,TLR2_ectodomain,protein,318,0.493088
+1,TLR2_ectodomain,protein,319,0.491537
+1,TLR2_ectodomain,protein,320,0.492320
+1,TLR2_ectodomain,protein,321,0.492461
+1,TLR2_ectodomain,protein,322,0.496993
+1,TLR2_ectodomain,protein,323,0.491023
+1,TLR2_ectodomain,protein,324,0.493342
+1,TLR2_ectodomain,protein,325,0.494418
+1,TLR2_ectodomain,protein,326,0.492400
+1,TLR2_ectodomain,protein,327,0.492808
+1,TLR2_ectodomain,protein,328,0.492217
+1,TLR2_ectodomain,protein,329,0.490558
+1,TLR2_ectodomain,protein,330,0.490193
+1,TLR2_ectodomain,protein,331,0.494779
+1,TLR2_ectodomain,protein,332,0.492869
+1,TLR2_ectodomain,protein,333,0.491118
+1,TLR2_ectodomain,protein,334,0.491304
+1,TLR2_ectodomain,protein,335,0.492830
+1,TLR2_ectodomain,protein,336,0.492836
+1,TLR2_ectodomain,protein,337,0.495314
+1,TLR2_ectodomain,protein,338,0.492838
+1,TLR2_ectodomain,protein,339,0.495403
+1,TLR2_ectodomain,protein,340,0.495228
+1,TLR2_ectodomain,protein,341,0.494281
+1,TLR2_ectodomain,protein,342,0.491512
+1,TLR2_ectodomain,protein,343,0.492293
+1,TLR2_ectodomain,protein,344,0.489955
+1,TLR2_ectodomain,protein,345,0.491731
+1,TLR2_ectodomain,protein,346,0.487942
+1,TLR2_ectodomain,protein,347,0.492767
+1,TLR2_ectodomain,protein,348,0.494442
+1,TLR2_ectodomain,protein,349,0.493884
+1,TLR2_ectodomain,protein,350,0.493528
+1,TLR2_ectodomain,protein,351,0.490883
+1,TLR2_ectodomain,protein,352,0.497395
+1,TLR2_ectodomain,protein,353,0.494863
+1,TLR2_ectodomain,protein,354,0.494961
+1,TLR2_ectodomain,protein,355,0.494226
+1,TLR2_ectodomain,protein,356,0.494548
+1,TLR2_ectodomain,protein,357,0.496325
+1,TLR2_ectodomain,protein,358,0.492652
+1,TLR2_ectodomain,protein,359,0.495532
+1,TLR2_ectodomain,protein,360,0.494119
+1,TLR2_ectodomain,protein,361,0.493691
+1,TLR2_ectodomain,protein,362,0.494719
+1,TLR2_ectodomain,protein,363,0.493935
+1,TLR2_ectodomain,protein,364,0.494047
+1,TLR2_ectodomain,protein,365,0.492286
+1,TLR2_ectodomain,protein,366,0.495717
+1,TLR2_ectodomain,protein,367,0.494832
+1,TLR2_ectodomain,protein,368,0.485951
+1,TLR2_ectodomain,protein,369,0.494886
+1,TLR2_ectodomain,protein,370,0.483465
+1,TLR2_ectodomain,protein,371,0.492595
+1,TLR2_ectodomain,protein,372,0.497742
+1,TLR2_ectodomain,protein,373,0.497992
+1,TLR2_ectodomain,protein,374,0.493222
+1,TLR2_ectodomain,protein,375,0.496326
+1,TLR2_ectodomain,protein,376,0.497342
+1,TLR2_ectodomain,protein,377,0.493948
+1,TLR2_ectodomain,protein,378,0.492958
+1,TLR2_ectodomain,protein,379,0.490483
+1,TLR2_ectodomain,protein,380,0.494139
+1,TLR2_ectodomain,protein,381,0.491909
+1,TLR2_ectodomain,protein,382,0.493238
+1,TLR2_ectodomain,protein,383,0.493196
+1,TLR2_ectodomain,protein,384,0.493287
+1,TLR2_ectodomain,protein,385,0.492987
+1,TLR2_ectodomain,protein,386,0.492122
+1,TLR2_ectodomain,protein,387,0.496675
+1,TLR2_ectodomain,protein,388,0.491658
+1,TLR2_ectodomain,protein,389,0.492320
+1,TLR2_ectodomain,protein,390,0.493746
+1,TLR2_ectodomain,protein,391,0.493441
+1,TLR2_ectodomain,protein,392,0.495692
+1,TLR2_ectodomain,protein,393,0.495849
+1,TLR2_ectodomain,protein,394,0.494327
+1,TLR2_ectodomain,protein,395,0.492326
+1,TLR2_ectodomain,protein,396,0.498512
+1,TLR2_ectodomain,protein,397,0.488426
+1,TLR2_ectodomain,protein,398,0.490459
+1,TLR2_ectodomain,protein,399,0.494484
+1,TLR2_ectodomain,protein,400,0.495417
+1,TLR2_ectodomain,protein,401,0.493411
+1,TLR2_ectodomain,protein,402,0.493685
+1,TLR2_ectodomain,protein,403,0.496192
+1,TLR2_ectodomain,protein,404,0.491857
+1,TLR2_ectodomain,protein,405,0.489958
+1,TLR2_ectodomain,protein,406,0.490322
+1,TLR2_ectodomain,protein,407,0.488940
+1,TLR2_ectodomain,protein,408,0.493784
+1,TLR2_ectodomain,protein,409,0.490612
+1,TLR2_ectodomain,protein,410,0.494800
+1,TLR2_ectodomain,protein,411,0.493759
+1,TLR2_ectodomain,protein,412,0.494350
+1,TLR2_ectodomain,protein,413,0.494465
+1,TLR2_ectodomain,protein,414,0.495784
+1,TLR2_ectodomain,protein,415,0.494275
+1,TLR2_ectodomain,protein,416,0.490785
+1,TLR2_ectodomain,protein,417,0.496055
+1,TLR2_ectodomain,protein,418,0.494522
+1,TLR2_ectodomain,protein,419,0.494618
+1,TLR2_ectodomain,protein,420,0.495749
+1,TLR2_ectodomain,protein,421,0.486631
+1,TLR2_ectodomain,protein,422,0.497976
+1,TLR2_ectodomain,protein,423,0.484816
+1,TLR2_ectodomain,protein,424,0.489414
+1,TLR2_ectodomain,protein,425,0.495017
+1,TLR2_ectodomain,protein,426,0.495184
+1,TLR2_ectodomain,protein,427,0.494152
+1,TLR2_ectodomain,protein,428,0.489321
+1,TLR2_ectodomain,protein,429,0.493315
+1,TLR2_ectodomain,protein,430,0.490857
+1,TLR2_ectodomain,protein,431,0.491167
+1,TLR2_ectodomain,protein,432,0.493103
+1,TLR2_ectodomain,protein,433,0.494389
+1,TLR2_ectodomain,protein,434,0.489815
+1,TLR2_ectodomain,protein,435,0.495655
+1,TLR2_ectodomain,protein,436,0.494807
+1,TLR2_ectodomain,protein,437,0.494195
+1,TLR2_ectodomain,protein,438,0.497283
+1,TLR2_ectodomain,protein,439,0.494856
+1,TLR2_ectodomain,protein,440,0.497885
+1,TLR2_ectodomain,protein,441,0.491438
+1,TLR2_ectodomain,protein,442,0.495472
+1,TLR2_ectodomain,protein,443,0.494296
+1,TLR2_ectodomain,protein,444,0.487499
+1,TLR2_ectodomain,protein,445,0.494905
+1,TLR2_ectodomain,protein,446,0.487720
+1,TLR2_ectodomain,protein,447,0.493595
+1,TLR2_ectodomain,protein,448,0.493982
+1,TLR2_ectodomain,protein,449,0.496285
+1,TLR2_ectodomain,protein,450,0.494691
+1,TLR2_ectodomain,protein,451,0.493108
+1,TLR2_ectodomain,protein,452,0.492066
+1,TLR2_ectodomain,protein,453,0.495709
+1,TLR2_ectodomain,protein,454,0.492829
+1,TLR2_ectodomain,protein,455,0.495110
+1,TLR2_ectodomain,protein,456,0.494272
+1,TLR2_ectodomain,protein,457,0.497743
+1,TLR2_ectodomain,protein,458,0.494095
+1,TLR2_ectodomain,protein,459,0.495269
+1,TLR2_ectodomain,protein,460,0.494851
+1,TLR2_ectodomain,protein,461,0.494534
+1,TLR2_ectodomain,protein,462,0.493261
+1,TLR2_ectodomain,protein,463,0.496597
+1,TLR2_ectodomain,protein,464,0.491957
+1,TLR2_ectodomain,protein,465,0.490048
+1,TLR2_ectodomain,protein,466,0.496720
+1,TLR2_ectodomain,protein,467,0.487983
+1,TLR2_ectodomain,protein,468,0.492212
+1,TLR2_ectodomain,protein,469,0.492319
+1,TLR2_ectodomain,protein,470,0.495530
+1,TLR2_ectodomain,protein,471,0.491202
+1,TLR2_ectodomain,protein,472,0.491737
+1,TLR2_ectodomain,protein,473,0.490583
+1,TLR2_ectodomain,protein,474,0.493558
+1,TLR2_ectodomain,protein,475,0.492126
+1,TLR2_ectodomain,protein,476,0.493057
+1,TLR2_ectodomain,protein,477,0.493274
+1,TLR2_ectodomain,protein,478,0.495179
+1,TLR2_ectodomain,protein,479,0.498948
+1,TLR2_ectodomain,protein,480,0.495362
+1,TLR2_ectodomain,protein,481,0.495613
+1,TLR2_ectodomain,protein,482,0.492615
+1,TLR2_ectodomain,protein,483,0.498690
+1,TLR2_ectodomain,protein,484,0.492546
+1,TLR2_ectodomain,protein,485,0.493128
+1,TLR2_ectodomain,protein,486,0.497995
+1,TLR2_ectodomain,protein,487,0.487616
+1,TLR2_ectodomain,protein,488,0.493676
+1,TLR2_ectodomain,protein,489,0.493656
+1,TLR2_ectodomain,protein,490,0.498238
+1,TLR2_ectodomain,protein,491,0.494683
+1,TLR2_ectodomain,protein,492,0.488770
+1,TLR2_ectodomain,protein,493,0.492711
+1,TLR2_ectodomain,protein,494,0.491560
+1,TLR2_ectodomain,protein,495,0.492743
+1,TLR2_ectodomain,protein,496,0.492547
+1,TLR2_ectodomain,protein,497,0.494580
+1,TLR2_ectodomain,protein,498,0.491364
+1,TLR2_ectodomain,protein,499,0.495023
+1,TLR2_ectodomain,protein,500,0.494150
+1,TLR2_ectodomain,protein,501,0.496150
+1,TLR2_ectodomain,protein,502,0.492978
+1,TLR2_ectodomain,protein,503,0.497644
+1,TLR2_ectodomain,protein,504,0.493204
+1,TLR2_ectodomain,protein,505,0.498413
+1,TLR2_ectodomain,protein,506,0.491662
+1,TLR2_ectodomain,protein,507,0.492991
+1,TLR2_ectodomain,protein,508,0.494912
+1,TLR2_ectodomain,protein,509,0.490936
+1,TLR2_ectodomain,protein,510,0.492406
+1,TLR2_ectodomain,protein,511,0.494882
+1,TLR2_ectodomain,protein,512,0.495200
+1,TLR2_ectodomain,protein,513,0.493196
+1,TLR2_ectodomain,protein,514,0.491310
+1,TLR2_ectodomain,protein,515,0.493714
+1,TLR2_ectodomain,protein,516,0.494078
+1,TLR2_ectodomain,protein,517,0.495070
+1,TLR2_ectodomain,protein,518,0.496328
+1,TLR2_ectodomain,protein,519,0.490524
+1,TLR2_ectodomain,protein,520,0.491462
+1,TLR2_ectodomain,protein,521,0.490513
+1,TLR2_ectodomain,protein,522,0.495951
+1,TLR2_ectodomain,protein,523,0.496034
+1,TLR2_ectodomain,protein,524,0.497172
+1,TLR2_ectodomain,protein,525,0.493798
+1,TLR2_ectodomain,protein,526,0.497173
+1,TLR2_ectodomain,protein,527,0.496813
+1,TLR2_ectodomain,protein,528,0.492445
+1,TLR2_ectodomain,protein,529,0.495920
+1,TLR2_ectodomain,protein,530,0.492729
+1,TLR2_ectodomain,protein,531,0.491862
+1,TLR2_ectodomain,protein,532,0.495396
+1,TLR2_ectodomain,protein,533,0.487318
+1,TLR2_ectodomain,protein,534,0.491028
+1,TLR2_ectodomain,protein,535,0.494319
+1,TLR2_ectodomain,protein,536,0.491557
+1,TLR2_ectodomain,protein,537,0.490872
+1,TLR2_ectodomain,protein,538,0.488463
+1,TLR2_ectodomain,protein,539,0.496218
+1,TLR2_ectodomain,protein,540,0.494093
+1,TLR2_ectodomain,protein,541,0.493667
+1,TLR2_ectodomain,protein,542,0.497884
+1,TLR2_ectodomain,protein,543,0.493205
+1,TLR2_ectodomain,protein,544,0.498013
+1,TLR2_ectodomain,protein,545,0.494825
+1,TLR2_ectodomain,protein,546,0.499029
+1,TLR2_ectodomain,protein,547,0.494911
+1,TLR2_ectodomain,protein,548,0.497684
+1,TLR2_ectodomain,protein,549,0.494284
+1,TLR2_ectodomain,protein,550,0.495530
+1,TLR2_ectodomain,protein,551,0.493618
+1,TLR2_ectodomain,protein,552,0.495798
+1,TLR2_ectodomain,protein,553,0.496335
+1,TLR2_ectodomain,protein,554,0.494899
+1,TLR2_ectodomain,protein,555,0.495174
+1,TLR2_ectodomain,protein,556,0.498096
+1,TLR2_ectodomain,protein,557,0.493137
+1,TLR2_ectodomain,protein,558,0.494171
+1,TLR2_ectodomain,protein,559,0.494776
+1,TLR2_ectodomain,protein,560,0.495629
+1,TLR2_ectodomain,protein,561,0.495063
+1,TLR2_ectodomain,protein,562,0.495720
+1,TLR2_ectodomain,protein,563,0.490668
+1,TLR2_ectodomain,protein,564,0.495120
+1,TLR2_ectodomain,protein,565,0.494206
+1,TLR2_ectodomain,protein,566,0.486057
+1,TLR2_ectodomain,protein,567,0.489765
+1,TLR2_ectodomain,protein,568,0.493651
+1,TLR2_ectodomain,protein,569,0.490612
+1,TLR2_ectodomain,protein,570,0.494577
+1,TLR2_ectodomain,protein,571,0.491456
+1,TLR2_ectodomain,protein,572,0.486726
+1,TLR2_ectodomain,protein,573,0.493033
+1,TLR2_ectodomain,protein,574,0.495591
+1,TLR2_ectodomain,protein,575,0.496528
+1,TLR2_ectodomain,protein,576,0.495906
+1,TLR2_ectodomain,protein,577,0.497383
+1,TLR2_ectodomain,protein,578,0.494898
+1,TLR2_ectodomain,protein,579,0.496585
+1,TLR2_ectodomain,protein,580,0.489458
+1,TLR2_ectodomain,protein,581,0.489335
+1,TLR2_ectodomain,protein,582,0.488280
+1,TLR2_ectodomain,protein,583,0.493028
+1,TLR2_ectodomain,protein,584,0.496213
+1,TLR2_ectodomain,protein,585,0.493208
+1,TLR2_ectodomain,protein,586,0.497990
+1,TLR2_ectodomain,protein,587,0.495324
+1,TLR2_ectodomain,protein,588,0.499028
+1,TLR2_ectodomain,protein,589,0.494206
+1,TLR2_ectodomain,protein,590,0.493686
+1,TLR2_ectodomain,protein,591,0.492363
+1,TLR2_ectodomain,protein,592,0.492980
+1,TLR2_ectodomain,protein,593,0.497118
+1,TLR2_ectodomain,protein,594,0.494666
+1,TLR2_ectodomain,protein,595,0.493114
+1,TLR2_ectodomain,protein,596,0.495588
+1,TLR2_ectodomain,protein,597,0.494480
+1,TLR2_ectodomain,protein,598,0.493466
+1,TLR2_ectodomain,protein,599,0.492291
+1,TLR2_ectodomain,protein,600,0.492768
+1,TLR2_ectodomain,protein,601,0.495094
+1,TLR2_ectodomain,protein,602,0.491937
+1,TLR2_ectodomain,protein,603,0.493267
+1,TLR2_ectodomain,protein,604,0.494901
+1,TLR2_ectodomain,protein,605,0.497301
+1,TLR2_ectodomain,protein,606,0.495930
+1,TLR2_ectodomain,protein,607,0.495443
+1,TLR2_ectodomain,protein,608,0.497004
+1,TLR2_ectodomain,protein,609,0.494699
+1,TLR2_ectodomain,protein,610,0.497602
+1,TLR2_ectodomain,protein,611,0.496165
+1,TLR2_ectodomain,protein,612,0.495411
+1,TLR2_ectodomain,protein,613,0.496172
+1,TLR2_ectodomain,protein,614,0.494461
+1,TLR2_ectodomain,protein,615,0.493241
+1,TLR2_ectodomain,protein,616,0.489693
+1,TLR2_ectodomain,protein,617,0.495972
+1,TLR2_ectodomain,protein,618,0.496687
+1,TLR2_ectodomain,protein,619,0.498731
+1,TLR2_ectodomain,protein,620,0.494368
+1,TLR2_ectodomain,protein,621,0.493575
+1,TLR2_ectodomain,protein,622,0.495567
+1,TLR2_ectodomain,protein,623,0.492872
+1,TLR2_ectodomain,protein,624,0.494227
+1,TLR2_ectodomain,protein,625,0.494827
+1,TLR2_ectodomain,protein,626,0.500319
+1,TLR2_ectodomain,protein,627,0.491401
+1,TLR2_ectodomain,protein,628,0.494345
+1,TLR2_ectodomain,protein,629,0.498644
+1,TLR2_ectodomain,protein,630,0.495869
+1,TLR2_ectodomain,protein,631,0.497666
+1,TLR2_ectodomain,protein,632,0.502680
+1,TLR2_ectodomain,protein,633,0.498976
+1,TLR2_ectodomain,protein,634,0.495307
+1,TLR2_ectodomain,protein,635,0.497763
+1,TLR2_ectodomain,protein,636,0.493354
+1,TLR2_ectodomain,protein,637,0.499428
+1,TLR2_ectodomain,protein,638,0.493409
+1,TLR2_ectodomain,protein,639,0.496775
+1,TLR2_ectodomain,protein,640,0.492661
+1,TLR2_ectodomain,protein,641,0.495601
+1,TLR2_ectodomain,protein,642,0.496901
+1,TLR2_ectodomain,protein,643,0.494200
+1,TLR2_ectodomain,protein,644,0.494878
+1,TLR2_ectodomain,protein,645,0.495901
+1,TLR2_ectodomain,protein,646,0.490393
+1,TLR2_ectodomain,protein,647,0.498783
+1,TLR2_ectodomain,protein,648,0.497572
+1,TLR2_ectodomain,protein,649,0.498249
+1,TLR2_ectodomain,protein,650,0.498849
+1,TLR2_ectodomain,protein,651,0.496312
+1,TLR2_ectodomain,protein,652,0.492634
+1,TLR2_ectodomain,protein,653,0.494608
+1,TLR2_ectodomain,protein,654,0.495074
+1,TLR2_ectodomain,protein,655,0.491219
+1,TLR2_ectodomain,protein,656,0.496169
+1,TLR2_ectodomain,protein,657,0.494506
+1,TLR2_ectodomain,protein,658,0.494613
+1,TLR2_ectodomain,protein,659,0.498486
+1,TLR2_ectodomain,protein,660,0.494499
+1,TLR2_ectodomain,protein,661,0.498915
+1,TLR2_ectodomain,protein,662,0.490557
+1,TLR2_ectodomain,protein,663,0.492894
+1,TLR2_ectodomain,protein,664,0.496011
+1,TLR2_ectodomain,protein,665,0.494768
+1,TLR2_ectodomain,protein,666,0.493033
+1,TLR2_ectodomain,protein,667,0.491830
+1,TLR2_ectodomain,protein,668,0.496760
+1,TLR2_ectodomain,protein,669,0.495406
+1,TLR2_ectodomain,protein,670,0.493776
+1,TLR2_ectodomain,protein,671,0.496213
+1,TLR2_ectodomain,protein,672,0.496686
+1,TLR2_ectodomain,protein,673,0.494696
+1,TLR2_ectodomain,protein,674,0.498621
+1,TLR2_ectodomain,protein,675,0.493343
+1,TLR2_ectodomain,protein,676,0.498991
+1,TLR2_ectodomain,protein,677,0.493692
+1,TLR2_ectodomain,protein,678,0.498948
+1,TLR2_ectodomain,protein,679,0.493984
+1,TLR2_ectodomain,protein,680,0.498970
+1,TLR2_ectodomain,protein,681,0.494381
+1,TLR2_ectodomain,protein,682,0.493232
+1,TLR2_ectodomain,protein,683,0.495394
+1,TLR2_ectodomain,protein,684,0.498997
+1,TLR2_ectodomain,protein,685,0.494754
+1,TLR2_ectodomain,protein,686,0.494871
+1,TLR2_ectodomain,protein,687,0.498286
+1,TLR2_ectodomain,protein,688,0.492919
+1,TLR2_ectodomain,protein,689,0.494109
+1,TLR2_ectodomain,protein,690,0.496695
+1,TLR2_ectodomain,protein,691,0.492342
+1,TLR2_ectodomain,protein,692,0.489610
+1,TLR2_ectodomain,protein,693,0.494225
+1,TLR2_ectodomain,protein,694,0.496504
+1,TLR2_ectodomain,protein,695,0.492025
+1,TLR2_ectodomain,protein,696,0.491889
+1,TLR2_ectodomain,protein,697,0.496034
+1,TLR2_ectodomain,protein,698,0.492432
+1,TLR2_ectodomain,protein,699,0.490340
+1,TLR2_ectodomain,protein,700,0.487873
+1,TLR2_ectodomain,protein,701,0.492879
+1,TLR2_ectodomain,protein,702,0.494987
+1,TLR2_ectodomain,protein,703,0.498308
+1,TLR2_ectodomain,protein,704,0.495934
+1,TLR2_ectodomain,protein,705,0.494424
+1,TLR2_ectodomain,protein,706,0.494572
+1,TLR2_ectodomain,protein,707,0.494015
+1,TLR2_ectodomain,protein,708,0.494217
+1,TLR2_ectodomain,protein,709,0.494294
+1,TLR2_ectodomain,protein,710,0.491347
+1,TLR2_ectodomain,protein,711,0.494747
+1,TLR2_ectodomain,protein,712,0.492281
+1,TLR2_ectodomain,protein,713,0.499370
+1,TLR2_ectodomain,protein,714,0.491919
+1,TLR2_ectodomain,protein,715,0.497160
+1,TLR2_ectodomain,protein,716,0.489834
+1,TLR2_ectodomain,protein,717,0.494905
+1,TLR2_ectodomain,protein,718,0.491338
+1,TLR2_ectodomain,protein,719,0.492307
+1,TLR2_ectodomain,protein,720,0.494761
+1,TLR2_ectodomain,protein,721,0.493852
+1,TLR2_ectodomain,protein,722,0.495253
+1,TLR2_ectodomain,protein,723,0.493748
+1,TLR2_ectodomain,protein,724,0.494256
+1,TLR2_ectodomain,protein,725,0.493264
+1,TLR2_ectodomain,protein,726,0.500656
+1,TLR2_ectodomain,protein,727,0.494351
+1,TLR2_ectodomain,protein,728,0.494006
+1,TLR2_ectodomain,protein,729,0.493488
+1,TLR2_ectodomain,protein,730,0.497672
+1,TLR2_ectodomain,protein,731,0.493269
+1,TLR2_ectodomain,protein,732,0.490921
+1,TLR2_ectodomain,protein,733,0.495383
+1,TLR2_ectodomain,protein,734,0.490682
+1,TLR2_ectodomain,protein,735,0.492340
+1,TLR2_ectodomain,protein,736,0.495900
+1,TLR2_ectodomain,protein,737,0.494226
+1,TLR2_ectodomain,protein,738,0.494292
+1,TLR2_ectodomain,protein,739,0.495931
+1,TLR2_ectodomain,protein,740,0.497141
+1,TLR2_ectodomain,protein,741,0.498339
+1,TLR2_ectodomain,protein,742,0.499655
+1,TLR2_ectodomain,protein,743,0.497720
+1,TLR2_ectodomain,protein,744,0.497547
+1,TLR2_ectodomain,protein,745,0.494496
+1,TLR2_ectodomain,protein,746,0.497432
+1,TLR2_ectodomain,protein,747,0.495335
+1,TLR2_ectodomain,protein,748,0.493941
+1,TLR2_ectodomain,protein,749,0.496135
+1,TLR2_ectodomain,protein,750,0.494885
+1,TLR2_ectodomain,protein,751,0.492872
+1,TLR2_ectodomain,protein,752,0.500050
+1,TLR2_ectodomain,protein,753,0.497296
+1,TLR2_ectodomain,protein,754,0.494882
+1,TLR2_ectodomain,protein,755,0.496095
+1,TLR2_ectodomain,protein,756,0.498739
+1,TLR2_ectodomain,protein,757,0.496530
+1,TLR2_ectodomain,protein,758,0.494624
+1,TLR2_ectodomain,protein,759,0.499108
+1,TLR2_ectodomain,protein,760,0.496008
+1,TLR2_ectodomain,protein,761,0.496248
+1,TLR2_ectodomain,protein,762,0.497166
+1,TLR2_ectodomain,protein,763,0.495306
+1,TLR2_ectodomain,protein,764,0.496112
+1,TLR2_ectodomain,protein,765,0.495642
+1,TLR2_ectodomain,protein,766,0.499821
+1,TLR2_ectodomain,protein,767,0.497464
+1,TLR2_ectodomain,protein,768,0.494655
+1,TLR2_ectodomain,protein,769,0.494798
+1,TLR2_ectodomain,protein,770,0.504621
+1,TLR2_ectodomain,protein,771,0.498060
+1,TLR2_ectodomain,protein,772,0.491649
+1,TLR2_ectodomain,protein,773,0.494199
+1,TLR2_ectodomain,protein,774,0.499752
+1,TLR2_ectodomain,protein,775,0.493659
+1,TLR2_ectodomain,protein,776,0.495964
+1,TLR2_ectodomain,protein,777,0.497151
+1,TLR2_ectodomain,protein,778,0.489010
+1,TLR2_ectodomain,protein,779,0.495850
+1,TLR2_ectodomain,protein,780,0.496766
+1,TLR2_ectodomain,protein,781,0.492081
+1,TLR2_ectodomain,protein,782,0.492462
+1,TLR2_ectodomain,protein,783,0.493840
+1,TLR2_ectodomain,protein,784,0.495583
+2,HLA-DRA (alpha chain),peptide,1,0.492367
+2,HLA-DRA (alpha chain),peptide,2,0.494661
+2,HLA-DRA (alpha chain),peptide,3,0.497177
+2,HLA-DRA (alpha chain),peptide,4,0.494713
+2,HLA-DRA (alpha chain),peptide,5,0.496321
+2,HLA-DRA (alpha chain),peptide,6,0.490883
+2,HLA-DRA (alpha chain),peptide,7,0.494057
+2,HLA-DRA (alpha chain),peptide,8,0.494121
+2,HLA-DRA (alpha chain),peptide,9,0.493104
+2,HLA-DRA (alpha chain),peptide,10,0.495600
+2,HLA-DRA (alpha chain),peptide,11,0.493896
+2,HLA-DRA (alpha chain),peptide,12,0.495478
+2,HLA-DRA (alpha chain),peptide,13,0.491958
+2,HLA-DRA (alpha chain),peptide,14,0.495170
+2,HLA-DRA (alpha chain),peptide,15,0.496933
+2,HLA-DRA (alpha chain),peptide,16,0.494816
+2,HLA-DRA (alpha chain),peptide,17,0.494009
+2,HLA-DRA (alpha chain),peptide,18,0.494836
+2,HLA-DRA (alpha chain),peptide,19,0.494017
+2,HLA-DRA (alpha chain),peptide,20,0.493701
+2,HLA-DRA (alpha chain),peptide,21,0.492415
+2,HLA-DRA (alpha chain),peptide,22,0.494074
+2,HLA-DRA (alpha chain),peptide,23,0.493744
+2,HLA-DRA (alpha chain),peptide,24,0.493111
+2,HLA-DRA (alpha chain),peptide,25,0.492954
+2,HLA-DRA (alpha chain),peptide,26,0.494002
+2,HLA-DRA (alpha chain),protein,1,0.491351
+2,HLA-DRA (alpha chain),protein,2,0.490785
+2,HLA-DRA (alpha chain),protein,3,0.493220
+2,HLA-DRA (alpha chain),protein,4,0.494755
+2,HLA-DRA (alpha chain),protein,5,0.495407
+2,HLA-DRA (alpha chain),protein,6,0.492704
+2,HLA-DRA (alpha chain),protein,7,0.493433
+2,HLA-DRA (alpha chain),protein,8,0.493935
+2,HLA-DRA (alpha chain),protein,9,0.491865
+2,HLA-DRA (alpha chain),protein,10,0.492494
+2,HLA-DRA (alpha chain),protein,11,0.491651
+2,HLA-DRA (alpha chain),protein,12,0.491810
+2,HLA-DRA (alpha chain),protein,13,0.493919
+2,HLA-DRA (alpha chain),protein,14,0.493652
+2,HLA-DRA (alpha chain),protein,15,0.490389
+2,HLA-DRA (alpha chain),protein,16,0.494092
+2,HLA-DRA (alpha chain),protein,17,0.493107
+2,HLA-DRA (alpha chain),protein,18,0.494006
+2,HLA-DRA (alpha chain),protein,19,0.493953
+2,HLA-DRA (alpha chain),protein,20,0.492907
+2,HLA-DRA (alpha chain),protein,21,0.493478
+2,HLA-DRA (alpha chain),protein,22,0.493479
+2,HLA-DRA (alpha chain),protein,23,0.492273
+2,HLA-DRA (alpha chain),protein,24,0.494621
+2,HLA-DRA (alpha chain),protein,25,0.494234
+2,HLA-DRA (alpha chain),protein,26,0.495614
+2,HLA-DRA (alpha chain),protein,27,0.493453
+2,HLA-DRA (alpha chain),protein,28,0.493787
+2,HLA-DRA (alpha chain),protein,29,0.495506
+2,HLA-DRA (alpha chain),protein,30,0.491419
+2,HLA-DRA (alpha chain),protein,31,0.495429
+2,HLA-DRA (alpha chain),protein,32,0.496564
+2,HLA-DRA (alpha chain),protein,33,0.495406
+2,HLA-DRA (alpha chain),protein,34,0.494330
+2,HLA-DRA (alpha chain),protein,35,0.492632
+2,HLA-DRA (alpha chain),protein,36,0.492972
+2,HLA-DRA (alpha chain),protein,37,0.493461
+2,HLA-DRA (alpha chain),protein,38,0.492131
+2,HLA-DRA (alpha chain),protein,39,0.494478
+2,HLA-DRA (alpha chain),protein,40,0.492604
+2,HLA-DRA (alpha chain),protein,41,0.494101
+2,HLA-DRA (alpha chain),protein,42,0.492503
+2,HLA-DRA (alpha chain),protein,43,0.493679
+2,HLA-DRA (alpha chain),protein,44,0.489704
+2,HLA-DRA (alpha chain),protein,45,0.490245
+2,HLA-DRA (alpha chain),protein,46,0.494753
+2,HLA-DRA (alpha chain),protein,47,0.496425
+2,HLA-DRA (alpha chain),protein,48,0.493635
+2,HLA-DRA (alpha chain),protein,49,0.494153
+2,HLA-DRA (alpha chain),protein,50,0.494745
+2,HLA-DRA (alpha chain),protein,51,0.492188
+2,HLA-DRA (alpha chain),protein,52,0.493312
+2,HLA-DRA (alpha chain),protein,53,0.493443
+2,HLA-DRA (alpha chain),protein,54,0.495625
+2,HLA-DRA (alpha chain),protein,55,0.496921
+2,HLA-DRA (alpha chain),protein,56,0.493083
+2,HLA-DRA (alpha chain),protein,57,0.492565
+2,HLA-DRA (alpha chain),protein,58,0.492178
+2,HLA-DRA (alpha chain),protein,59,0.490638
+2,HLA-DRA (alpha chain),protein,60,0.493769
+2,HLA-DRA (alpha chain),protein,61,0.496465
+2,HLA-DRA (alpha chain),protein,62,0.492630
+2,HLA-DRA (alpha chain),protein,63,0.494072
+2,HLA-DRA (alpha chain),protein,64,0.491843
+2,HLA-DRA (alpha chain),protein,65,0.494593
+2,HLA-DRA (alpha chain),protein,66,0.487352
+2,HLA-DRA (alpha chain),protein,67,0.488420
+2,HLA-DRA (alpha chain),protein,68,0.492189
+2,HLA-DRA (alpha chain),protein,69,0.493736
+2,HLA-DRA (alpha chain),protein,70,0.489867
+2,HLA-DRA (alpha chain),protein,71,0.493418
+2,HLA-DRA (alpha chain),protein,72,0.493351
+2,HLA-DRA (alpha chain),protein,73,0.492823
+2,HLA-DRA (alpha chain),protein,74,0.490314
+2,HLA-DRA (alpha chain),protein,75,0.490950
+2,HLA-DRA (alpha chain),protein,76,0.493186
+2,HLA-DRA (alpha chain),protein,77,0.488919
+2,HLA-DRA (alpha chain),protein,78,0.490504
+2,HLA-DRA (alpha chain),protein,79,0.492448
+2,HLA-DRA (alpha chain),protein,80,0.488405
+2,HLA-DRA (alpha chain),protein,81,0.488705
+2,HLA-DRA (alpha chain),protein,82,0.492366
+2,HLA-DRA (alpha chain),protein,83,0.488760
+2,HLA-DRA (alpha chain),protein,84,0.486925
+2,HLA-DRA (alpha chain),protein,85,0.492440
+2,HLA-DRA (alpha chain),protein,86,0.488397
+2,HLA-DRA (alpha chain),protein,87,0.488966
+2,HLA-DRA (alpha chain),protein,88,0.491009
+2,HLA-DRA (alpha chain),protein,89,0.489470
+2,HLA-DRA (alpha chain),protein,90,0.489268
+2,HLA-DRA (alpha chain),protein,91,0.493033
+2,HLA-DRA (alpha chain),protein,92,0.492873
+2,HLA-DRA (alpha chain),protein,93,0.490303
+2,HLA-DRA (alpha chain),protein,94,0.488046
+2,HLA-DRA (alpha chain),protein,95,0.493626
+2,HLA-DRA (alpha chain),protein,96,0.492163
+2,HLA-DRA (alpha chain),protein,97,0.490615
+2,HLA-DRA (alpha chain),protein,98,0.495316
+2,HLA-DRA (alpha chain),protein,99,0.493358
+2,HLA-DRA (alpha chain),protein,100,0.492895
+2,HLA-DRA (alpha chain),protein,101,0.493453
+2,HLA-DRA (alpha chain),protein,102,0.493180
+2,HLA-DRA (alpha chain),protein,103,0.489886
+2,HLA-DRA (alpha chain),protein,104,0.493190
+2,HLA-DRA (alpha chain),protein,105,0.490556
+2,HLA-DRA (alpha chain),protein,106,0.492970
+2,HLA-DRA (alpha chain),protein,107,0.493297
+2,HLA-DRA (alpha chain),protein,108,0.491909
+2,HLA-DRA (alpha chain),protein,109,0.494951
+2,HLA-DRA (alpha chain),protein,110,0.497592
+2,HLA-DRA (alpha chain),protein,111,0.492774
+2,HLA-DRA (alpha chain),protein,112,0.494405
+2,HLA-DRA (alpha chain),protein,113,0.492797
+2,HLA-DRA (alpha chain),protein,114,0.492023
+2,HLA-DRA (alpha chain),protein,115,0.491184
+2,HLA-DRA (alpha chain),protein,116,0.493035
+2,HLA-DRA (alpha chain),protein,117,0.493461
+2,HLA-DRA (alpha chain),protein,118,0.492326
+2,HLA-DRA (alpha chain),protein,119,0.492988
+2,HLA-DRA (alpha chain),protein,120,0.492717
+2,HLA-DRA (alpha chain),protein,121,0.499101
+2,HLA-DRA (alpha chain),protein,122,0.492208
+2,HLA-DRA (alpha chain),protein,123,0.491894
+2,HLA-DRA (alpha chain),protein,124,0.493501
+2,HLA-DRA (alpha chain),protein,125,0.491211
+2,HLA-DRA (alpha chain),protein,126,0.493732
+2,HLA-DRA (alpha chain),protein,127,0.502781
+2,HLA-DRA (alpha chain),protein,128,0.493986
+2,HLA-DRA (alpha chain),protein,129,0.490120
+2,HLA-DRA (alpha chain),protein,130,0.494648
+2,HLA-DRA (alpha chain),protein,131,0.490654
+2,HLA-DRA (alpha chain),protein,132,0.498761
+2,HLA-DRA (alpha chain),protein,133,0.496191
+2,HLA-DRA (alpha chain),protein,134,0.495221
+2,HLA-DRA (alpha chain),protein,135,0.495313
+2,HLA-DRA (alpha chain),protein,136,0.491909
+2,HLA-DRA (alpha chain),protein,137,0.495878
+2,HLA-DRA (alpha chain),protein,138,0.491614
+2,HLA-DRA (alpha chain),protein,139,0.495975
+2,HLA-DRA (alpha chain),protein,140,0.497047
+2,HLA-DRA (alpha chain),protein,141,0.494560
+2,HLA-DRA (alpha chain),protein,142,0.495300
+2,HLA-DRA (alpha chain),protein,143,0.492665
+2,HLA-DRA (alpha chain),protein,144,0.496576
+2,HLA-DRA (alpha chain),protein,145,0.491117
+2,HLA-DRA (alpha chain),protein,146,0.496581
+2,HLA-DRA (alpha chain),protein,147,0.495787
+2,HLA-DRA (alpha chain),protein,148,0.498160
+2,HLA-DRA (alpha chain),protein,149,0.488855
+2,HLA-DRA (alpha chain),protein,150,0.484786
+2,HLA-DRA (alpha chain),protein,151,0.492435
+2,HLA-DRA (alpha chain),protein,152,0.488324
+2,HLA-DRA (alpha chain),protein,153,0.490458
+2,HLA-DRA (alpha chain),protein,154,0.490279
+2,HLA-DRA (alpha chain),protein,155,0.491225
+2,HLA-DRA (alpha chain),protein,156,0.486176
+2,HLA-DRA (alpha chain),protein,157,0.490652
+2,HLA-DRA (alpha chain),protein,158,0.492592
+2,HLA-DRA (alpha chain),protein,159,0.493400
+2,HLA-DRA (alpha chain),protein,160,0.488503
+2,HLA-DRA (alpha chain),protein,161,0.490676
+2,HLA-DRA (alpha chain),protein,162,0.495423
+2,HLA-DRA (alpha chain),protein,163,0.490375
+2,HLA-DRA (alpha chain),protein,164,0.492157
+2,HLA-DRA (alpha chain),protein,165,0.495108
+2,HLA-DRA (alpha chain),protein,166,0.495030
+2,HLA-DRA (alpha chain),protein,167,0.492392
+2,HLA-DRA (alpha chain),protein,168,0.491292
+2,HLA-DRA (alpha chain),protein,169,0.488626
+2,HLA-DRA (alpha chain),protein,170,0.490227
+2,HLA-DRA (alpha chain),protein,171,0.494469
+2,HLA-DRA (alpha chain),protein,172,0.495876
+2,HLA-DRA (alpha chain),protein,173,0.493188
+2,HLA-DRA (alpha chain),protein,174,0.493322
+2,HLA-DRA (alpha chain),protein,175,0.492592
+2,HLA-DRA (alpha chain),protein,176,0.492492
+2,HLA-DRA (alpha chain),protein,177,0.495400
+2,HLA-DRA (alpha chain),protein,178,0.497808
+2,HLA-DRA (alpha chain),protein,179,0.494354
+2,HLA-DRA (alpha chain),protein,180,0.494159
+2,HLA-DRA (alpha chain),protein,181,0.491238
+2,HLA-DRA (alpha chain),protein,182,0.494452
+2,HLA-DRA (alpha chain),protein,183,0.492969
+2,HLA-DRA (alpha chain),protein,184,0.492328
+2,HLA-DRA (alpha chain),protein,185,0.488498
+2,HLA-DRA (alpha chain),protein,186,0.491228
+2,HLA-DRA (alpha chain),protein,187,0.492054
+2,HLA-DRA (alpha chain),protein,188,0.492568
+2,HLA-DRA (alpha chain),protein,189,0.492905
+2,HLA-DRA (alpha chain),protein,190,0.495675
+2,HLA-DRA (alpha chain),protein,191,0.493837
+2,HLA-DRA (alpha chain),protein,192,0.493068
+2,HLA-DRA (alpha chain),protein,193,0.491616
+2,HLA-DRA (alpha chain),protein,194,0.486823
+2,HLA-DRA (alpha chain),protein,195,0.495302
+2,HLA-DRA (alpha chain),protein,196,0.495923
+2,HLA-DRA (alpha chain),protein,197,0.495504
+2,HLA-DRA (alpha chain),protein,198,0.503220
+2,HLA-DRA (alpha chain),protein,199,0.495857
+2,HLA-DRA (alpha chain),protein,200,0.491091
+2,HLA-DRA (alpha chain),protein,201,0.495384
+2,HLA-DRA (alpha chain),protein,202,0.491520
+2,HLA-DRA (alpha chain),protein,203,0.496371
+2,HLA-DRA (alpha chain),protein,204,0.487940
+2,HLA-DRA (alpha chain),protein,205,0.494321
+2,HLA-DRA (alpha chain),protein,206,0.489493
+2,HLA-DRA (alpha chain),protein,207,0.493373
+2,HLA-DRA (alpha chain),protein,208,0.491518
+2,HLA-DRA (alpha chain),protein,209,0.493417
+2,HLA-DRA (alpha chain),protein,210,0.492506
+2,HLA-DRA (alpha chain),protein,211,0.492350
+2,HLA-DRA (alpha chain),protein,212,0.493059
+2,HLA-DRA (alpha chain),protein,213,0.490436
+2,HLA-DRA (alpha chain),protein,214,0.492802
+2,HLA-DRA (alpha chain),protein,215,0.493307
+2,HLA-DRA (alpha chain),protein,216,0.491946
+2,HLA-DRA (alpha chain),protein,217,0.491393
+2,HLA-DRA (alpha chain),protein,218,0.492471
+2,HLA-DRA (alpha chain),protein,219,0.488394
+2,HLA-DRA (alpha chain),protein,220,0.490723
+2,HLA-DRA (alpha chain),protein,221,0.490419
+2,HLA-DRA (alpha chain),protein,222,0.495424
+2,HLA-DRA (alpha chain),protein,223,0.489228
+2,HLA-DRA (alpha chain),protein,224,0.493924
+2,HLA-DRA (alpha chain),protein,225,0.489481
+2,HLA-DRA (alpha chain),protein,226,0.494001
+2,HLA-DRA (alpha chain),protein,227,0.488559
+2,HLA-DRA (alpha chain),protein,228,0.492082
+2,HLA-DRA (alpha chain),protein,229,0.492602
+2,HLA-DRA (alpha chain),protein,230,0.492116
+2,HLA-DRA (alpha chain),protein,231,0.490126
+2,HLA-DRA (alpha chain),protein,232,0.491461
+2,HLA-DRA (alpha chain),protein,233,0.492226
+2,HLA-DRA (alpha chain),protein,234,0.488991
+2,HLA-DRA (alpha chain),protein,235,0.490479
+2,HLA-DRA (alpha chain),protein,236,0.494289
+2,HLA-DRA (alpha chain),protein,237,0.494078
+2,HLA-DRA (alpha chain),protein,238,0.492884
+2,HLA-DRA (alpha chain),protein,239,0.494040
+2,HLA-DRA (alpha chain),protein,240,0.494012
+2,HLA-DRA (alpha chain),protein,241,0.492479
+2,HLA-DRA (alpha chain),protein,242,0.490266
+2,HLA-DRA (alpha chain),protein,243,0.491451
+2,HLA-DRA (alpha chain),protein,244,0.493200
+2,HLA-DRA (alpha chain),protein,245,0.491060
+2,HLA-DRA (alpha chain),protein,246,0.491980
+2,HLA-DRA (alpha chain),protein,247,0.493071
+2,HLA-DRA (alpha chain),protein,248,0.495635
+2,HLA-DRA (alpha chain),protein,249,0.493923
+2,HLA-DRA (alpha chain),protein,250,0.495749
+2,HLA-DRA (alpha chain),protein,251,0.497396
+2,HLA-DRA (alpha chain),protein,252,0.495164
+2,HLA-DRA (alpha chain),protein,253,0.493620
+2,HLA-DRA (alpha chain),protein,254,0.495130
+3,HLA-DRB1 (beta chain),peptide,1,0.492367
+3,HLA-DRB1 (beta chain),peptide,2,0.494661
+3,HLA-DRB1 (beta chain),peptide,3,0.497177
+3,HLA-DRB1 (beta chain),peptide,4,0.494713
+3,HLA-DRB1 (beta chain),peptide,5,0.496321
+3,HLA-DRB1 (beta chain),peptide,6,0.490883
+3,HLA-DRB1 (beta chain),peptide,7,0.494057
+3,HLA-DRB1 (beta chain),peptide,8,0.494121
+3,HLA-DRB1 (beta chain),peptide,9,0.493104
+3,HLA-DRB1 (beta chain),peptide,10,0.495600
+3,HLA-DRB1 (beta chain),peptide,11,0.493896
+3,HLA-DRB1 (beta chain),peptide,12,0.495478
+3,HLA-DRB1 (beta chain),peptide,13,0.491958
+3,HLA-DRB1 (beta chain),peptide,14,0.495170
+3,HLA-DRB1 (beta chain),peptide,15,0.496933
+3,HLA-DRB1 (beta chain),peptide,16,0.494816
+3,HLA-DRB1 (beta chain),peptide,17,0.494009
+3,HLA-DRB1 (beta chain),peptide,18,0.494836
+3,HLA-DRB1 (beta chain),peptide,19,0.494017
+3,HLA-DRB1 (beta chain),peptide,20,0.493701
+3,HLA-DRB1 (beta chain),peptide,21,0.492415
+3,HLA-DRB1 (beta chain),peptide,22,0.494074
+3,HLA-DRB1 (beta chain),peptide,23,0.493744
+3,HLA-DRB1 (beta chain),peptide,24,0.493111
+3,HLA-DRB1 (beta chain),peptide,25,0.492954
+3,HLA-DRB1 (beta chain),peptide,26,0.494002
+3,HLA-DRB1 (beta chain),protein,1,0.490356
+3,HLA-DRB1 (beta chain),protein,2,0.489794
+3,HLA-DRB1 (beta chain),protein,3,0.491304
+3,HLA-DRB1 (beta chain),protein,4,0.493384
+3,HLA-DRB1 (beta chain),protein,5,0.492503
+3,HLA-DRB1 (beta chain),protein,6,0.492214
+3,HLA-DRB1 (beta chain),protein,7,0.493781
+3,HLA-DRB1 (beta chain),protein,8,0.494499
+3,HLA-DRB1 (beta chain),protein,9,0.492838
+3,HLA-DRB1 (beta chain),protein,10,0.491819
+3,HLA-DRB1 (beta chain),protein,11,0.493135
+3,HLA-DRB1 (beta chain),protein,12,0.492416
+3,HLA-DRB1 (beta chain),protein,13,0.490280
+3,HLA-DRB1 (beta chain),protein,14,0.491107
+3,HLA-DRB1 (beta chain),protein,15,0.491790
+3,HLA-DRB1 (beta chain),protein,16,0.490819
+3,HLA-DRB1 (beta chain),protein,17,0.494559
+3,HLA-DRB1 (beta chain),protein,18,0.491074
+3,HLA-DRB1 (beta chain),protein,19,0.491377
+3,HLA-DRB1 (beta chain),protein,20,0.491534
+3,HLA-DRB1 (beta chain),protein,21,0.493176
+3,HLA-DRB1 (beta chain),protein,22,0.492298
+3,HLA-DRB1 (beta chain),protein,23,0.493194
+3,HLA-DRB1 (beta chain),protein,24,0.493370
+3,HLA-DRB1 (beta chain),protein,25,0.492430
+3,HLA-DRB1 (beta chain),protein,26,0.492908
+3,HLA-DRB1 (beta chain),protein,27,0.491636
+3,HLA-DRB1 (beta chain),protein,28,0.494034
+3,HLA-DRB1 (beta chain),protein,29,0.493559
+3,HLA-DRB1 (beta chain),protein,30,0.496529
+3,HLA-DRB1 (beta chain),protein,31,0.494611
+3,HLA-DRB1 (beta chain),protein,32,0.491610
+3,HLA-DRB1 (beta chain),protein,33,0.492143
+3,HLA-DRB1 (beta chain),protein,34,0.491467
+3,HLA-DRB1 (beta chain),protein,35,0.493353
+3,HLA-DRB1 (beta chain),protein,36,0.494147
+3,HLA-DRB1 (beta chain),protein,37,0.494908
+3,HLA-DRB1 (beta chain),protein,38,0.493695
+3,HLA-DRB1 (beta chain),protein,39,0.493000
+3,HLA-DRB1 (beta chain),protein,40,0.492092
+3,HLA-DRB1 (beta chain),protein,41,0.491363
+3,HLA-DRB1 (beta chain),protein,42,0.493306
+3,HLA-DRB1 (beta chain),protein,43,0.493211
+3,HLA-DRB1 (beta chain),protein,44,0.491162
+3,HLA-DRB1 (beta chain),protein,45,0.493740
+3,HLA-DRB1 (beta chain),protein,46,0.495498
+3,HLA-DRB1 (beta chain),protein,47,0.490663
+3,HLA-DRB1 (beta chain),protein,48,0.489840
+3,HLA-DRB1 (beta chain),protein,49,0.491469
+3,HLA-DRB1 (beta chain),protein,50,0.490881
+3,HLA-DRB1 (beta chain),protein,51,0.493107
+3,HLA-DRB1 (beta chain),protein,52,0.494362
+3,HLA-DRB1 (beta chain),protein,53,0.493002
+3,HLA-DRB1 (beta chain),protein,54,0.492410
+3,HLA-DRB1 (beta chain),protein,55,0.493943
+3,HLA-DRB1 (beta chain),protein,56,0.493197
+3,HLA-DRB1 (beta chain),protein,57,0.495240
+3,HLA-DRB1 (beta chain),protein,58,0.494400
+3,HLA-DRB1 (beta chain),protein,59,0.495326
+3,HLA-DRB1 (beta chain),protein,60,0.493770
+3,HLA-DRB1 (beta chain),protein,61,0.494456
+3,HLA-DRB1 (beta chain),protein,62,0.494414
+3,HLA-DRB1 (beta chain),protein,63,0.493447
+3,HLA-DRB1 (beta chain),protein,64,0.492263
+3,HLA-DRB1 (beta chain),protein,65,0.492846
+3,HLA-DRB1 (beta chain),protein,66,0.492892
+3,HLA-DRB1 (beta chain),protein,67,0.492815
+3,HLA-DRB1 (beta chain),protein,68,0.493253
+3,HLA-DRB1 (beta chain),protein,69,0.492759
+3,HLA-DRB1 (beta chain),protein,70,0.491941
+3,HLA-DRB1 (beta chain),protein,71,0.491871
+3,HLA-DRB1 (beta chain),protein,72,0.490413
+3,HLA-DRB1 (beta chain),protein,73,0.493117
+3,HLA-DRB1 (beta chain),protein,74,0.492047
+3,HLA-DRB1 (beta chain),protein,75,0.493588
+3,HLA-DRB1 (beta chain),protein,76,0.494108
+3,HLA-DRB1 (beta chain),protein,77,0.492041
+3,HLA-DRB1 (beta chain),protein,78,0.491177
+3,HLA-DRB1 (beta chain),protein,79,0.493603
+3,HLA-DRB1 (beta chain),protein,80,0.490439
+3,HLA-DRB1 (beta chain),protein,81,0.489598
+3,HLA-DRB1 (beta chain),protein,82,0.493401
+3,HLA-DRB1 (beta chain),protein,83,0.493733
+3,HLA-DRB1 (beta chain),protein,84,0.493134
+3,HLA-DRB1 (beta chain),protein,85,0.493318
+3,HLA-DRB1 (beta chain),protein,86,0.493259
+3,HLA-DRB1 (beta chain),protein,87,0.493223
+3,HLA-DRB1 (beta chain),protein,88,0.490539
+3,HLA-DRB1 (beta chain),protein,89,0.490606
+3,HLA-DRB1 (beta chain),protein,90,0.494310
+3,HLA-DRB1 (beta chain),protein,91,0.490996
+3,HLA-DRB1 (beta chain),protein,92,0.490856
+3,HLA-DRB1 (beta chain),protein,93,0.490615
+3,HLA-DRB1 (beta chain),protein,94,0.488578
+3,HLA-DRB1 (beta chain),protein,95,0.489673
+3,HLA-DRB1 (beta chain),protein,96,0.491692
+3,HLA-DRB1 (beta chain),protein,97,0.489410
+3,HLA-DRB1 (beta chain),protein,98,0.489429
+3,HLA-DRB1 (beta chain),protein,99,0.491686
+3,HLA-DRB1 (beta chain),protein,100,0.493157
+3,HLA-DRB1 (beta chain),protein,101,0.492584
+3,HLA-DRB1 (beta chain),protein,102,0.490023
+3,HLA-DRB1 (beta chain),protein,103,0.491030
+3,HLA-DRB1 (beta chain),protein,104,0.491265
+3,HLA-DRB1 (beta chain),protein,105,0.490259
+3,HLA-DRB1 (beta chain),protein,106,0.492480
+3,HLA-DRB1 (beta chain),protein,107,0.493007
+3,HLA-DRB1 (beta chain),protein,108,0.495603
+3,HLA-DRB1 (beta chain),protein,109,0.492428
+3,HLA-DRB1 (beta chain),protein,110,0.489181
+3,HLA-DRB1 (beta chain),protein,111,0.490706
+3,HLA-DRB1 (beta chain),protein,112,0.494579
+3,HLA-DRB1 (beta chain),protein,113,0.493607
+3,HLA-DRB1 (beta chain),protein,114,0.490888
+3,HLA-DRB1 (beta chain),protein,115,0.492410
+3,HLA-DRB1 (beta chain),protein,116,0.495265
+3,HLA-DRB1 (beta chain),protein,117,0.492349
+3,HLA-DRB1 (beta chain),protein,118,0.492946
+3,HLA-DRB1 (beta chain),protein,119,0.493043
+3,HLA-DRB1 (beta chain),protein,120,0.494202
+3,HLA-DRB1 (beta chain),protein,121,0.493115
+3,HLA-DRB1 (beta chain),protein,122,0.493476
+3,HLA-DRB1 (beta chain),protein,123,0.495726
+3,HLA-DRB1 (beta chain),protein,124,0.496423
+3,HLA-DRB1 (beta chain),protein,125,0.492558
+3,HLA-DRB1 (beta chain),protein,126,0.493109
+3,HLA-DRB1 (beta chain),protein,127,0.495215
+3,HLA-DRB1 (beta chain),protein,128,0.494587
+3,HLA-DRB1 (beta chain),protein,129,0.492066
+3,HLA-DRB1 (beta chain),protein,130,0.494048
+3,HLA-DRB1 (beta chain),protein,131,0.492508
+3,HLA-DRB1 (beta chain),protein,132,0.492306
+3,HLA-DRB1 (beta chain),protein,133,0.492415
+3,HLA-DRB1 (beta chain),protein,134,0.496891
+3,HLA-DRB1 (beta chain),protein,135,0.496531
+3,HLA-DRB1 (beta chain),protein,136,0.494715
+3,HLA-DRB1 (beta chain),protein,137,0.493931
+3,HLA-DRB1 (beta chain),protein,138,0.489698
+3,HLA-DRB1 (beta chain),protein,139,0.490371
+3,HLA-DRB1 (beta chain),protein,140,0.490019
+3,HLA-DRB1 (beta chain),protein,141,0.494556
+3,HLA-DRB1 (beta chain),protein,142,0.495223
+3,HLA-DRB1 (beta chain),protein,143,0.493922
+3,HLA-DRB1 (beta chain),protein,144,0.494189
+3,HLA-DRB1 (beta chain),protein,145,0.493764
+3,HLA-DRB1 (beta chain),protein,146,0.498149
+3,HLA-DRB1 (beta chain),protein,147,0.494685
+3,HLA-DRB1 (beta chain),protein,148,0.495614
+3,HLA-DRB1 (beta chain),protein,149,0.497031
+3,HLA-DRB1 (beta chain),protein,150,0.491980
+3,HLA-DRB1 (beta chain),protein,151,0.492521
+3,HLA-DRB1 (beta chain),protein,152,0.491845
+3,HLA-DRB1 (beta chain),protein,153,0.494014
+3,HLA-DRB1 (beta chain),protein,154,0.495867
+3,HLA-DRB1 (beta chain),protein,155,0.492897
+3,HLA-DRB1 (beta chain),protein,156,0.497302
+3,HLA-DRB1 (beta chain),protein,157,0.492866
+3,HLA-DRB1 (beta chain),protein,158,0.496600
+3,HLA-DRB1 (beta chain),protein,159,0.491055
+3,HLA-DRB1 (beta chain),protein,160,0.495005
+3,HLA-DRB1 (beta chain),protein,161,0.496177
+3,HLA-DRB1 (beta chain),protein,162,0.496988
+3,HLA-DRB1 (beta chain),protein,163,0.488019
+3,HLA-DRB1 (beta chain),protein,164,0.486385
+3,HLA-DRB1 (beta chain),protein,165,0.492725
+3,HLA-DRB1 (beta chain),protein,166,0.491351
+3,HLA-DRB1 (beta chain),protein,167,0.492833
+3,HLA-DRB1 (beta chain),protein,168,0.491231
+3,HLA-DRB1 (beta chain),protein,169,0.488161
+3,HLA-DRB1 (beta chain),protein,170,0.490383
+3,HLA-DRB1 (beta chain),protein,171,0.486960
+3,HLA-DRB1 (beta chain),protein,172,0.488980
+3,HLA-DRB1 (beta chain),protein,173,0.486438
+3,HLA-DRB1 (beta chain),protein,174,0.487298
+3,HLA-DRB1 (beta chain),protein,175,0.491892
+3,HLA-DRB1 (beta chain),protein,176,0.491049
+3,HLA-DRB1 (beta chain),protein,177,0.493433
+3,HLA-DRB1 (beta chain),protein,178,0.493448
+3,HLA-DRB1 (beta chain),protein,179,0.492876
+3,HLA-DRB1 (beta chain),protein,180,0.489969
+3,HLA-DRB1 (beta chain),protein,181,0.488541
+3,HLA-DRB1 (beta chain),protein,182,0.491510
+3,HLA-DRB1 (beta chain),protein,183,0.489854
+3,HLA-DRB1 (beta chain),protein,184,0.492526
+3,HLA-DRB1 (beta chain),protein,185,0.494950
+3,HLA-DRB1 (beta chain),protein,186,0.495577
+3,HLA-DRB1 (beta chain),protein,187,0.495159
+3,HLA-DRB1 (beta chain),protein,188,0.496656
+3,HLA-DRB1 (beta chain),protein,189,0.494616
+3,HLA-DRB1 (beta chain),protein,190,0.494947
+3,HLA-DRB1 (beta chain),protein,191,0.491989
+3,HLA-DRB1 (beta chain),protein,192,0.495043
+3,HLA-DRB1 (beta chain),protein,193,0.494183
+3,HLA-DRB1 (beta chain),protein,194,0.492979
+3,HLA-DRB1 (beta chain),protein,195,0.493913
+3,HLA-DRB1 (beta chain),protein,196,0.496361
+3,HLA-DRB1 (beta chain),protein,197,0.492250
+3,HLA-DRB1 (beta chain),protein,198,0.489608
+3,HLA-DRB1 (beta chain),protein,199,0.491729
+3,HLA-DRB1 (beta chain),protein,200,0.492341
+3,HLA-DRB1 (beta chain),protein,201,0.488851
+3,HLA-DRB1 (beta chain),protein,202,0.493018
+3,HLA-DRB1 (beta chain),protein,203,0.492533
+3,HLA-DRB1 (beta chain),protein,204,0.493641
+3,HLA-DRB1 (beta chain),protein,205,0.489861
+3,HLA-DRB1 (beta chain),protein,206,0.492106
+3,HLA-DRB1 (beta chain),protein,207,0.493520
+3,HLA-DRB1 (beta chain),protein,208,0.488870
+3,HLA-DRB1 (beta chain),protein,209,0.495167
+3,HLA-DRB1 (beta chain),protein,210,0.491996
+3,HLA-DRB1 (beta chain),protein,211,0.495602
+3,HLA-DRB1 (beta chain),protein,212,0.495630
+3,HLA-DRB1 (beta chain),protein,213,0.495367
+3,HLA-DRB1 (beta chain),protein,214,0.493503
+3,HLA-DRB1 (beta chain),protein,215,0.496245
+3,HLA-DRB1 (beta chain),protein,216,0.493128
+3,HLA-DRB1 (beta chain),protein,217,0.491664
+3,HLA-DRB1 (beta chain),protein,218,0.488195
+3,HLA-DRB1 (beta chain),protein,219,0.491518
+3,HLA-DRB1 (beta chain),protein,220,0.493890
+3,HLA-DRB1 (beta chain),protein,221,0.490658
+3,HLA-DRB1 (beta chain),protein,222,0.489341
+3,HLA-DRB1 (beta chain),protein,223,0.491224
+3,HLA-DRB1 (beta chain),protein,224,0.490013
+3,HLA-DRB1 (beta chain),protein,225,0.494046
+3,HLA-DRB1 (beta chain),protein,226,0.490369
+3,HLA-DRB1 (beta chain),protein,227,0.490995
+3,HLA-DRB1 (beta chain),protein,228,0.490896
+3,HLA-DRB1 (beta chain),protein,229,0.492276
+3,HLA-DRB1 (beta chain),protein,230,0.492837
+3,HLA-DRB1 (beta chain),protein,231,0.491710
+3,HLA-DRB1 (beta chain),protein,232,0.494932
+3,HLA-DRB1 (beta chain),protein,233,0.497601
+3,HLA-DRB1 (beta chain),protein,234,0.492850
+3,HLA-DRB1 (beta chain),protein,235,0.493475
+3,HLA-DRB1 (beta chain),protein,236,0.493656
+3,HLA-DRB1 (beta chain),protein,237,0.496694
+3,HLA-DRB1 (beta chain),protein,238,0.488509
+3,HLA-DRB1 (beta chain),protein,239,0.492130
+3,HLA-DRB1 (beta chain),protein,240,0.494009
+3,HLA-DRB1 (beta chain),protein,241,0.493698
+3,HLA-DRB1 (beta chain),protein,242,0.491782
+3,HLA-DRB1 (beta chain),protein,243,0.493410
+3,HLA-DRB1 (beta chain),protein,244,0.492562
+3,HLA-DRB1 (beta chain),protein,245,0.492548
+3,HLA-DRB1 (beta chain),protein,246,0.491380
+3,HLA-DRB1 (beta chain),protein,247,0.494553
+3,HLA-DRB1 (beta chain),protein,248,0.497141
+3,HLA-DRB1 (beta chain),protein,249,0.493562
+3,HLA-DRB1 (beta chain),protein,250,0.493599
+3,HLA-DRB1 (beta chain),protein,251,0.494035
+3,HLA-DRB1 (beta chain),protein,252,0.492667
+3,HLA-DRB1 (beta chain),protein,253,0.494405
+3,HLA-DRB1 (beta chain),protein,254,0.492387
+3,HLA-DRB1 (beta chain),protein,255,0.493348
+3,HLA-DRB1 (beta chain),protein,256,0.493469
+3,HLA-DRB1 (beta chain),protein,257,0.493357
+3,HLA-DRB1 (beta chain),protein,258,0.494513
+3,HLA-DRB1 (beta chain),protein,259,0.494977
+3,HLA-DRB1 (beta chain),protein,260,0.494171
+3,HLA-DRB1 (beta chain),protein,261,0.494013
+3,HLA-DRB1 (beta chain),protein,262,0.495179
+3,HLA-DRB1 (beta chain),protein,263,0.494395
+3,HLA-DRB1 (beta chain),protein,264,0.492170
+3,HLA-DRB1 (beta chain),protein,265,0.491790
+3,HLA-DRB1 (beta chain),protein,266,0.494969
+4,CD4_extracellular,peptide,1,0.492367
+4,CD4_extracellular,peptide,2,0.494661
+4,CD4_extracellular,peptide,3,0.497177
+4,CD4_extracellular,peptide,4,0.494713
+4,CD4_extracellular,peptide,5,0.496321
+4,CD4_extracellular,peptide,6,0.490883
+4,CD4_extracellular,peptide,7,0.494057
+4,CD4_extracellular,peptide,8,0.494121
+4,CD4_extracellular,peptide,9,0.493104
+4,CD4_extracellular,peptide,10,0.495600
+4,CD4_extracellular,peptide,11,0.493896
+4,CD4_extracellular,peptide,12,0.495478
+4,CD4_extracellular,peptide,13,0.491958
+4,CD4_extracellular,peptide,14,0.495170
+4,CD4_extracellular,peptide,15,0.496933
+4,CD4_extracellular,peptide,16,0.494816
+4,CD4_extracellular,peptide,17,0.494009
+4,CD4_extracellular,peptide,18,0.494836
+4,CD4_extracellular,peptide,19,0.494017
+4,CD4_extracellular,peptide,20,0.493701
+4,CD4_extracellular,peptide,21,0.492415
+4,CD4_extracellular,peptide,22,0.494074
+4,CD4_extracellular,peptide,23,0.493744
+4,CD4_extracellular,peptide,24,0.493111
+4,CD4_extracellular,peptide,25,0.492954
+4,CD4_extracellular,peptide,26,0.494002
+4,CD4_extracellular,protein,1,0.494919
+4,CD4_extracellular,protein,2,0.489654
+4,CD4_extracellular,protein,3,0.493984
+4,CD4_extracellular,protein,4,0.494928
+4,CD4_extracellular,protein,5,0.493490
+4,CD4_extracellular,protein,6,0.493935
+4,CD4_extracellular,protein,7,0.495857
+4,CD4_extracellular,protein,8,0.493648
+4,CD4_extracellular,protein,9,0.493282
+4,CD4_extracellular,protein,10,0.494452
+4,CD4_extracellular,protein,11,0.493798
+4,CD4_extracellular,protein,12,0.493876
+4,CD4_extracellular,protein,13,0.494570
+4,CD4_extracellular,protein,14,0.493802
+4,CD4_extracellular,protein,15,0.493543
+4,CD4_extracellular,protein,16,0.494227
+4,CD4_extracellular,protein,17,0.493229
+4,CD4_extracellular,protein,18,0.495891
+4,CD4_extracellular,protein,19,0.495571
+4,CD4_extracellular,protein,20,0.497023
+4,CD4_extracellular,protein,21,0.495178
+4,CD4_extracellular,protein,22,0.494943
+4,CD4_extracellular,protein,23,0.492487
+4,CD4_extracellular,protein,24,0.497014
+4,CD4_extracellular,protein,25,0.496201
+4,CD4_extracellular,protein,26,0.496071
+4,CD4_extracellular,protein,27,0.493708
+4,CD4_extracellular,protein,28,0.499798
+4,CD4_extracellular,protein,29,0.493922
+4,CD4_extracellular,protein,30,0.494309
+4,CD4_extracellular,protein,31,0.496427
+4,CD4_extracellular,protein,32,0.494090
+4,CD4_extracellular,protein,33,0.496193
+4,CD4_extracellular,protein,34,0.490663
+4,CD4_extracellular,protein,35,0.487856
+4,CD4_extracellular,protein,36,0.491371
+4,CD4_extracellular,protein,37,0.496699
+4,CD4_extracellular,protein,38,0.491594
+4,CD4_extracellular,protein,39,0.491625
+4,CD4_extracellular,protein,40,0.490610
+4,CD4_extracellular,protein,41,0.493556
+4,CD4_extracellular,protein,42,0.488960
+4,CD4_extracellular,protein,43,0.492752
+4,CD4_extracellular,protein,44,0.491337
+4,CD4_extracellular,protein,45,0.491376
+4,CD4_extracellular,protein,46,0.493013
+4,CD4_extracellular,protein,47,0.490954
+4,CD4_extracellular,protein,48,0.491615
+4,CD4_extracellular,protein,49,0.493453
+4,CD4_extracellular,protein,50,0.493209
+4,CD4_extracellular,protein,51,0.489385
+4,CD4_extracellular,protein,52,0.491901
+4,CD4_extracellular,protein,53,0.490521
+4,CD4_extracellular,protein,54,0.492934
+4,CD4_extracellular,protein,55,0.492616
+4,CD4_extracellular,protein,56,0.492655
+4,CD4_extracellular,protein,57,0.490122
+4,CD4_extracellular,protein,58,0.488765
+4,CD4_extracellular,protein,59,0.493177
+4,CD4_extracellular,protein,60,0.494410
+4,CD4_extracellular,protein,61,0.492057
+4,CD4_extracellular,protein,62,0.493192
+4,CD4_extracellular,protein,63,0.495510
+4,CD4_extracellular,protein,64,0.489020
+4,CD4_extracellular,protein,65,0.489088
+4,CD4_extracellular,protein,66,0.489135
+4,CD4_extracellular,protein,67,0.488436
+4,CD4_extracellular,protein,68,0.491789
+4,CD4_extracellular,protein,69,0.491534
+4,CD4_extracellular,protein,70,0.491477
+4,CD4_extracellular,protein,71,0.491709
+4,CD4_extracellular,protein,72,0.492236
+4,CD4_extracellular,protein,73,0.489389
+4,CD4_extracellular,protein,74,0.491935
+4,CD4_extracellular,protein,75,0.489726
+4,CD4_extracellular,protein,76,0.491000
+4,CD4_extracellular,protein,77,0.488218
+4,CD4_extracellular,protein,78,0.484570
+4,CD4_extracellular,protein,79,0.485998
+4,CD4_extracellular,protein,80,0.491716
+4,CD4_extracellular,protein,81,0.492328
+4,CD4_extracellular,protein,82,0.489967
+4,CD4_extracellular,protein,83,0.491915
+4,CD4_extracellular,protein,84,0.489832
+4,CD4_extracellular,protein,85,0.487516
+4,CD4_extracellular,protein,86,0.492595
+4,CD4_extracellular,protein,87,0.493854
+4,CD4_extracellular,protein,88,0.491200
+4,CD4_extracellular,protein,89,0.496328
+4,CD4_extracellular,protein,90,0.492121
+4,CD4_extracellular,protein,91,0.494481
+4,CD4_extracellular,protein,92,0.496588
+4,CD4_extracellular,protein,93,0.490488
+4,CD4_extracellular,protein,94,0.488694
+4,CD4_extracellular,protein,95,0.494702
+4,CD4_extracellular,protein,96,0.495885
+4,CD4_extracellular,protein,97,0.493633
+4,CD4_extracellular,protein,98,0.491304
+4,CD4_extracellular,protein,99,0.493908
+4,CD4_extracellular,protein,100,0.488193
+4,CD4_extracellular,protein,101,0.495150
+4,CD4_extracellular,protein,102,0.492856
+4,CD4_extracellular,protein,103,0.493023
+4,CD4_extracellular,protein,104,0.490812
+4,CD4_extracellular,protein,105,0.493097
+4,CD4_extracellular,protein,106,0.492729
+4,CD4_extracellular,protein,107,0.491934
+4,CD4_extracellular,protein,108,0.494423
+4,CD4_extracellular,protein,109,0.494342
+4,CD4_extracellular,protein,110,0.492955
+4,CD4_extracellular,protein,111,0.494951
+4,CD4_extracellular,protein,112,0.491969
+4,CD4_extracellular,protein,113,0.489296
+4,CD4_extracellular,protein,114,0.494502
+4,CD4_extracellular,protein,115,0.491083
+4,CD4_extracellular,protein,116,0.492805
+4,CD4_extracellular,protein,117,0.493006
+4,CD4_extracellular,protein,118,0.495749
+4,CD4_extracellular,protein,119,0.493179
+4,CD4_extracellular,protein,120,0.495833
+4,CD4_extracellular,protein,121,0.494559
+4,CD4_extracellular,protein,122,0.494046
+4,CD4_extracellular,protein,123,0.491833
+4,CD4_extracellular,protein,124,0.488424
+4,CD4_extracellular,protein,125,0.490829
+4,CD4_extracellular,protein,126,0.491906
+4,CD4_extracellular,protein,127,0.488297
+4,CD4_extracellular,protein,128,0.491724
+4,CD4_extracellular,protein,129,0.488690
+4,CD4_extracellular,protein,130,0.491905
+4,CD4_extracellular,protein,131,0.492408
+4,CD4_extracellular,protein,132,0.494014
+4,CD4_extracellular,protein,133,0.493431
+4,CD4_extracellular,protein,134,0.489589
+4,CD4_extracellular,protein,135,0.496172
+4,CD4_extracellular,protein,136,0.491854
+4,CD4_extracellular,protein,137,0.489506
+4,CD4_extracellular,protein,138,0.492350
+4,CD4_extracellular,protein,139,0.494316
+4,CD4_extracellular,protein,140,0.492038
+4,CD4_extracellular,protein,141,0.493959
+4,CD4_extracellular,protein,142,0.493881
+4,CD4_extracellular,protein,143,0.494435
+4,CD4_extracellular,protein,144,0.494339
+4,CD4_extracellular,protein,145,0.489665
+4,CD4_extracellular,protein,146,0.494631
+4,CD4_extracellular,protein,147,0.493354
+4,CD4_extracellular,protein,148,0.493260
+4,CD4_extracellular,protein,149,0.493705
+4,CD4_extracellular,protein,150,0.492311
+4,CD4_extracellular,protein,151,0.494196
+4,CD4_extracellular,protein,152,0.491566
+4,CD4_extracellular,protein,153,0.491897
+4,CD4_extracellular,protein,154,0.494343
+4,CD4_extracellular,protein,155,0.491103
+4,CD4_extracellular,protein,156,0.494481
+4,CD4_extracellular,protein,157,0.492767
+4,CD4_extracellular,protein,158,0.489690
+4,CD4_extracellular,protein,159,0.492332
+4,CD4_extracellular,protein,160,0.489016
+4,CD4_extracellular,protein,161,0.495985
+4,CD4_extracellular,protein,162,0.497934
+4,CD4_extracellular,protein,163,0.499238
+4,CD4_extracellular,protein,164,0.493922
+4,CD4_extracellular,protein,165,0.495017
+4,CD4_extracellular,protein,166,0.493011
+4,CD4_extracellular,protein,167,0.490929
+4,CD4_extracellular,protein,168,0.494838
+4,CD4_extracellular,protein,169,0.494209
+4,CD4_extracellular,protein,170,0.492386
+4,CD4_extracellular,protein,171,0.494023
+4,CD4_extracellular,protein,172,0.493946
+4,CD4_extracellular,protein,173,0.495482
+4,CD4_extracellular,protein,174,0.494297
+4,CD4_extracellular,protein,175,0.490880
+4,CD4_extracellular,protein,176,0.489377
+4,CD4_extracellular,protein,177,0.493512
+4,CD4_extracellular,protein,178,0.493756
+4,CD4_extracellular,protein,179,0.490992
+4,CD4_extracellular,protein,180,0.489086
+4,CD4_extracellular,protein,181,0.490000
+4,CD4_extracellular,protein,182,0.491092
+4,CD4_extracellular,protein,183,0.490658
+4,CD4_extracellular,protein,184,0.491397
+4,CD4_extracellular,protein,185,0.492308
+4,CD4_extracellular,protein,186,0.494770
+4,CD4_extracellular,protein,187,0.490930
+4,CD4_extracellular,protein,188,0.495344
+4,CD4_extracellular,protein,189,0.491439
+4,CD4_extracellular,protein,190,0.489659
+4,CD4_extracellular,protein,191,0.493513
+4,CD4_extracellular,protein,192,0.494378
+4,CD4_extracellular,protein,193,0.495656
+4,CD4_extracellular,protein,194,0.492461
+4,CD4_extracellular,protein,195,0.491579
+4,CD4_extracellular,protein,196,0.491398
+4,CD4_extracellular,protein,197,0.495351
+4,CD4_extracellular,protein,198,0.489723
+4,CD4_extracellular,protein,199,0.497101
+4,CD4_extracellular,protein,200,0.492590
+4,CD4_extracellular,protein,201,0.492844
+4,CD4_extracellular,protein,202,0.491833
+4,CD4_extracellular,protein,203,0.488746
+4,CD4_extracellular,protein,204,0.492467
+4,CD4_extracellular,protein,205,0.493116
+4,CD4_extracellular,protein,206,0.490831
+4,CD4_extracellular,protein,207,0.494349
+4,CD4_extracellular,protein,208,0.493798
+4,CD4_extracellular,protein,209,0.493898
+4,CD4_extracellular,protein,210,0.496594
+4,CD4_extracellular,protein,211,0.495912
+4,CD4_extracellular,protein,212,0.494688
+4,CD4_extracellular,protein,213,0.497323
+4,CD4_extracellular,protein,214,0.495015
+4,CD4_extracellular,protein,215,0.493733
+4,CD4_extracellular,protein,216,0.490297
+4,CD4_extracellular,protein,217,0.489660
+4,CD4_extracellular,protein,218,0.496372
+4,CD4_extracellular,protein,219,0.496787
+4,CD4_extracellular,protein,220,0.493184
+4,CD4_extracellular,protein,221,0.493291
+4,CD4_extracellular,protein,222,0.492448
+4,CD4_extracellular,protein,223,0.491143
+4,CD4_extracellular,protein,224,0.492123
+4,CD4_extracellular,protein,225,0.493544
+4,CD4_extracellular,protein,226,0.490873
+4,CD4_extracellular,protein,227,0.492473
+4,CD4_extracellular,protein,228,0.492165
+4,CD4_extracellular,protein,229,0.494833
+4,CD4_extracellular,protein,230,0.493152
+4,CD4_extracellular,protein,231,0.492064
+4,CD4_extracellular,protein,232,0.493641
+4,CD4_extracellular,protein,233,0.491534
+4,CD4_extracellular,protein,234,0.493988
+4,CD4_extracellular,protein,235,0.492631
+4,CD4_extracellular,protein,236,0.496218
+4,CD4_extracellular,protein,237,0.492151
+4,CD4_extracellular,protein,238,0.493836
+4,CD4_extracellular,protein,239,0.494425
+4,CD4_extracellular,protein,240,0.492660
+4,CD4_extracellular,protein,241,0.492835
+4,CD4_extracellular,protein,242,0.489335
+4,CD4_extracellular,protein,243,0.490948
+4,CD4_extracellular,protein,244,0.490636
+4,CD4_extracellular,protein,245,0.488415
+4,CD4_extracellular,protein,246,0.490695
+4,CD4_extracellular,protein,247,0.492673
+4,CD4_extracellular,protein,248,0.491315
+4,CD4_extracellular,protein,249,0.490531
+4,CD4_extracellular,protein,250,0.493105
+4,CD4_extracellular,protein,251,0.495996
+4,CD4_extracellular,protein,252,0.494356
+4,CD4_extracellular,protein,253,0.491963
+4,CD4_extracellular,protein,254,0.494124
+4,CD4_extracellular,protein,255,0.490588
+4,CD4_extracellular,protein,256,0.492899
+4,CD4_extracellular,protein,257,0.490531
+4,CD4_extracellular,protein,258,0.487902
+4,CD4_extracellular,protein,259,0.488269
+4,CD4_extracellular,protein,260,0.490330
+4,CD4_extracellular,protein,261,0.491875
+4,CD4_extracellular,protein,262,0.490806
+4,CD4_extracellular,protein,263,0.493633
+4,CD4_extracellular,protein,264,0.491533
+4,CD4_extracellular,protein,265,0.490206
+4,CD4_extracellular,protein,266,0.490980
+4,CD4_extracellular,protein,267,0.488309
+4,CD4_extracellular,protein,268,0.493816
+4,CD4_extracellular,protein,269,0.491085
+4,CD4_extracellular,protein,270,0.491727
+4,CD4_extracellular,protein,271,0.489623
+4,CD4_extracellular,protein,272,0.492202
+4,CD4_extracellular,protein,273,0.492425
+4,CD4_extracellular,protein,274,0.492833
+4,CD4_extracellular,protein,275,0.492677
+4,CD4_extracellular,protein,276,0.491344
+4,CD4_extracellular,protein,277,0.493357
+4,CD4_extracellular,protein,278,0.487472
+4,CD4_extracellular,protein,279,0.497740
+4,CD4_extracellular,protein,280,0.494347
+4,CD4_extracellular,protein,281,0.494453
+4,CD4_extracellular,protein,282,0.494059
+4,CD4_extracellular,protein,283,0.494962
+4,CD4_extracellular,protein,284,0.490323
+4,CD4_extracellular,protein,285,0.496195
+4,CD4_extracellular,protein,286,0.495414
+4,CD4_extracellular,protein,287,0.493062
+4,CD4_extracellular,protein,288,0.491615
+4,CD4_extracellular,protein,289,0.491760
+4,CD4_extracellular,protein,290,0.493393
+4,CD4_extracellular,protein,291,0.493733
+4,CD4_extracellular,protein,292,0.490056
+4,CD4_extracellular,protein,293,0.493961
+4,CD4_extracellular,protein,294,0.491980
+4,CD4_extracellular,protein,295,0.492678
+4,CD4_extracellular,protein,296,0.492586
+4,CD4_extracellular,protein,297,0.492664
+4,CD4_extracellular,protein,298,0.490100
+4,CD4_extracellular,protein,299,0.491999
+4,CD4_extracellular,protein,300,0.489760
+4,CD4_extracellular,protein,301,0.490359
+4,CD4_extracellular,protein,302,0.492957
+4,CD4_extracellular,protein,303,0.489406
+4,CD4_extracellular,protein,304,0.490944
+4,CD4_extracellular,protein,305,0.495756
+4,CD4_extracellular,protein,306,0.494882
+4,CD4_extracellular,protein,307,0.494178
+4,CD4_extracellular,protein,308,0.494471
+4,CD4_extracellular,protein,309,0.490027
+4,CD4_extracellular,protein,310,0.495334
+4,CD4_extracellular,protein,311,0.493176
+4,CD4_extracellular,protein,312,0.495297
+4,CD4_extracellular,protein,313,0.492991
+4,CD4_extracellular,protein,314,0.495222
+4,CD4_extracellular,protein,315,0.495565
+4,CD4_extracellular,protein,316,0.496120
+4,CD4_extracellular,protein,317,0.492509
+4,CD4_extracellular,protein,318,0.493307
+4,CD4_extracellular,protein,319,0.490568
+4,CD4_extracellular,protein,320,0.487988
+4,CD4_extracellular,protein,321,0.492164
+4,CD4_extracellular,protein,322,0.490785
+4,CD4_extracellular,protein,323,0.492918
+4,CD4_extracellular,protein,324,0.491896
+4,CD4_extracellular,protein,325,0.494365
+4,CD4_extracellular,protein,326,0.491520
+4,CD4_extracellular,protein,327,0.490691
+4,CD4_extracellular,protein,328,0.494855
+4,CD4_extracellular,protein,329,0.495615
+4,CD4_extracellular,protein,330,0.492265
+4,CD4_extracellular,protein,331,0.493660
+4,CD4_extracellular,protein,332,0.486935
+4,CD4_extracellular,protein,333,0.492164
+4,CD4_extracellular,protein,334,0.493991
+4,CD4_extracellular,protein,335,0.492883
+4,CD4_extracellular,protein,336,0.495636
+4,CD4_extracellular,protein,337,0.492957
+4,CD4_extracellular,protein,338,0.495882
+4,CD4_extracellular,protein,339,0.494948
+4,CD4_extracellular,protein,340,0.492953
+4,CD4_extracellular,protein,341,0.495822
+4,CD4_extracellular,protein,342,0.494216
+4,CD4_extracellular,protein,343,0.494943
+4,CD4_extracellular,protein,344,0.494559
+4,CD4_extracellular,protein,345,0.490743
+4,CD4_extracellular,protein,346,0.487555
+4,CD4_extracellular,protein,347,0.492045
+4,CD4_extracellular,protein,348,0.491496
+4,CD4_extracellular,protein,349,0.493780
+4,CD4_extracellular,protein,350,0.495959
+4,CD4_extracellular,protein,351,0.496151
+4,CD4_extracellular,protein,352,0.493357
+4,CD4_extracellular,protein,353,0.496002
+4,CD4_extracellular,protein,354,0.493749
+4,CD4_extracellular,protein,355,0.493303
+4,CD4_extracellular,protein,356,0.493341
+4,CD4_extracellular,protein,357,0.493148
+4,CD4_extracellular,protein,358,0.493355
+4,CD4_extracellular,protein,359,0.493201
+4,CD4_extracellular,protein,360,0.492753
+4,CD4_extracellular,protein,361,0.494817
+4,CD4_extracellular,protein,362,0.491394
+4,CD4_extracellular,protein,363,0.489486
+4,CD4_extracellular,protein,364,0.489687
+4,CD4_extracellular,protein,365,0.492731
+4,CD4_extracellular,protein,366,0.493647
+4,CD4_extracellular,protein,367,0.493431
+4,CD4_extracellular,protein,368,0.489779
+4,CD4_extracellular,protein,369,0.488515
+4,CD4_extracellular,protein,370,0.493616
+4,CD4_extracellular,protein,371,0.493352
+4,CD4_extracellular,protein,372,0.495191
+4,CD4_extracellular,protein,373,0.492146
+4,CD4_extracellular,protein,374,0.493375
+4,CD4_extracellular,protein,375,0.492939
+4,CD4_extracellular,protein,376,0.487241
+4,CD4_extracellular,protein,377,0.494031
+4,CD4_extracellular,protein,378,0.495903
+4,CD4_extracellular,protein,379,0.496577
+4,CD4_extracellular,protein,380,0.493719
+4,CD4_extracellular,protein,381,0.495451
+4,CD4_extracellular,protein,382,0.492685
+4,CD4_extracellular,protein,383,0.493816
+4,CD4_extracellular,protein,384,0.496717
+4,CD4_extracellular,protein,385,0.491349
+4,CD4_extracellular,protein,386,0.494234
+4,CD4_extracellular,protein,387,0.490946
+4,CD4_extracellular,protein,388,0.492865
+4,CD4_extracellular,protein,389,0.490863
+4,CD4_extracellular,protein,390,0.492704
+4,CD4_extracellular,protein,391,0.490961
+4,CD4_extracellular,protein,392,0.489610
+4,CD4_extracellular,protein,393,0.490226
+4,CD4_extracellular,protein,394,0.491988
+4,CD4_extracellular,protein,395,0.492200
+4,CD4_extracellular,protein,396,0.492698
+4,CD4_extracellular,protein,397,0.492156
+4,CD4_extracellular,protein,398,0.490678
+4,CD4_extracellular,protein,399,0.493076
+4,CD4_extracellular,protein,400,0.493386
+4,CD4_extracellular,protein,401,0.491724
+4,CD4_extracellular,protein,402,0.494272
+4,CD4_extracellular,protein,403,0.493528
+4,CD4_extracellular,protein,404,0.494042
+4,CD4_extracellular,protein,405,0.490686
+4,CD4_extracellular,protein,406,0.492106
+4,CD4_extracellular,protein,407,0.494990
+4,CD4_extracellular,protein,408,0.493266
+4,CD4_extracellular,protein,409,0.491863
+4,CD4_extracellular,protein,410,0.495545
+4,CD4_extracellular,protein,411,0.494447
+4,CD4_extracellular,protein,412,0.493582
+4,CD4_extracellular,protein,413,0.493834
+4,CD4_extracellular,protein,414,0.494659
+4,CD4_extracellular,protein,415,0.495853
+4,CD4_extracellular,protein,416,0.493117
+4,CD4_extracellular,protein,417,0.495463
+4,CD4_extracellular,protein,418,0.495698
+4,CD4_extracellular,protein,419,0.495166
+4,CD4_extracellular,protein,420,0.493966
+4,CD4_extracellular,protein,421,0.493871
+4,CD4_extracellular,protein,422,0.495414
+4,CD4_extracellular,protein,423,0.493242
+4,CD4_extracellular,protein,424,0.489119
+4,CD4_extracellular,protein,425,0.491996
+4,CD4_extracellular,protein,426,0.491417
+4,CD4_extracellular,protein,427,0.492585
+4,CD4_extracellular,protein,428,0.494485
+4,CD4_extracellular,protein,429,0.491362
+4,CD4_extracellular,protein,430,0.490594
+4,CD4_extracellular,protein,431,0.494432
+4,CD4_extracellular,protein,432,0.494514
+4,CD4_extracellular,protein,433,0.491917
+4,CD4_extracellular,protein,434,0.492551
+4,CD4_extracellular,protein,435,0.491876
+4,CD4_extracellular,protein,436,0.491869
+4,CD4_extracellular,protein,437,0.489048
+4,CD4_extracellular,protein,438,0.492192
+4,CD4_extracellular,protein,439,0.493071
+4,CD4_extracellular,protein,440,0.493413
+4,CD4_extracellular,protein,441,0.492378
+4,CD4_extracellular,protein,442,0.493169
+4,CD4_extracellular,protein,443,0.492847
+4,CD4_extracellular,protein,444,0.493193
+4,CD4_extracellular,protein,445,0.492283
+4,CD4_extracellular,protein,446,0.493543
+4,CD4_extracellular,protein,447,0.492350
+4,CD4_extracellular,protein,448,0.495604
+4,CD4_extracellular,protein,449,0.493702
+4,CD4_extracellular,protein,450,0.493048
+4,CD4_extracellular,protein,451,0.492841
+4,CD4_extracellular,protein,452,0.492109
+4,CD4_extracellular,protein,453,0.490434
+4,CD4_extracellular,protein,454,0.491597
+4,CD4_extracellular,protein,455,0.492391
+4,CD4_extracellular,protein,456,0.489213
+4,CD4_extracellular,protein,457,0.491442
+4,CD4_extracellular,protein,458,0.494421
+5,TLR4_ectodomain,peptide,1,0.492367
+5,TLR4_ectodomain,peptide,2,0.494661
+5,TLR4_ectodomain,peptide,3,0.497177
+5,TLR4_ectodomain,peptide,4,0.494713
+5,TLR4_ectodomain,peptide,5,0.496321
+5,TLR4_ectodomain,peptide,6,0.490883
+5,TLR4_ectodomain,peptide,7,0.494057
+5,TLR4_ectodomain,peptide,8,0.494121
+5,TLR4_ectodomain,peptide,9,0.493104
+5,TLR4_ectodomain,peptide,10,0.495600
+5,TLR4_ectodomain,peptide,11,0.493896
+5,TLR4_ectodomain,peptide,12,0.495478
+5,TLR4_ectodomain,peptide,13,0.491958
+5,TLR4_ectodomain,peptide,14,0.495170
+5,TLR4_ectodomain,peptide,15,0.496933
+5,TLR4_ectodomain,peptide,16,0.494816
+5,TLR4_ectodomain,peptide,17,0.494009
+5,TLR4_ectodomain,peptide,18,0.494836
+5,TLR4_ectodomain,peptide,19,0.494017
+5,TLR4_ectodomain,peptide,20,0.493701
+5,TLR4_ectodomain,peptide,21,0.492415
+5,TLR4_ectodomain,peptide,22,0.494074
+5,TLR4_ectodomain,peptide,23,0.493744
+5,TLR4_ectodomain,peptide,24,0.493111
+5,TLR4_ectodomain,peptide,25,0.492954
+5,TLR4_ectodomain,peptide,26,0.494002
+5,TLR4_ectodomain,protein,1,0.493903
+5,TLR4_ectodomain,protein,2,0.492601
+5,TLR4_ectodomain,protein,3,0.492891
+5,TLR4_ectodomain,protein,4,0.492888
+5,TLR4_ectodomain,protein,5,0.493114
+5,TLR4_ectodomain,protein,6,0.492832
+5,TLR4_ectodomain,protein,7,0.492518
+5,TLR4_ectodomain,protein,8,0.493028
+5,TLR4_ectodomain,protein,9,0.495643
+5,TLR4_ectodomain,protein,10,0.493308
+5,TLR4_ectodomain,protein,11,0.495330
+5,TLR4_ectodomain,protein,12,0.494567
+5,TLR4_ectodomain,protein,13,0.494582
+5,TLR4_ectodomain,protein,14,0.493932
+5,TLR4_ectodomain,protein,15,0.496294
+5,TLR4_ectodomain,protein,16,0.491469
+5,TLR4_ectodomain,protein,17,0.493128
+5,TLR4_ectodomain,protein,18,0.494005
+5,TLR4_ectodomain,protein,19,0.493363
+5,TLR4_ectodomain,protein,20,0.493511
+5,TLR4_ectodomain,protein,21,0.496344
+5,TLR4_ectodomain,protein,22,0.493457
+5,TLR4_ectodomain,protein,23,0.494640
+5,TLR4_ectodomain,protein,24,0.493187
+5,TLR4_ectodomain,protein,25,0.491345
+5,TLR4_ectodomain,protein,26,0.493302
+5,TLR4_ectodomain,protein,27,0.491039
+5,TLR4_ectodomain,protein,28,0.491913
+5,TLR4_ectodomain,protein,29,0.493606
+5,TLR4_ectodomain,protein,30,0.493376
+5,TLR4_ectodomain,protein,31,0.489999
+5,TLR4_ectodomain,protein,32,0.496065
+5,TLR4_ectodomain,protein,33,0.492539
+5,TLR4_ectodomain,protein,34,0.490323
+5,TLR4_ectodomain,protein,35,0.489441
+5,TLR4_ectodomain,protein,36,0.491595
+5,TLR4_ectodomain,protein,37,0.491208
+5,TLR4_ectodomain,protein,38,0.490477
+5,TLR4_ectodomain,protein,39,0.494057
+5,TLR4_ectodomain,protein,40,0.494197
+5,TLR4_ectodomain,protein,41,0.491321
+5,TLR4_ectodomain,protein,42,0.489749
+5,TLR4_ectodomain,protein,43,0.492023
+5,TLR4_ectodomain,protein,44,0.488589
+5,TLR4_ectodomain,protein,45,0.493752
+5,TLR4_ectodomain,protein,46,0.493796
+5,TLR4_ectodomain,protein,47,0.492247
+5,TLR4_ectodomain,protein,48,0.494453
+5,TLR4_ectodomain,protein,49,0.492317
+5,TLR4_ectodomain,protein,50,0.495641
+5,TLR4_ectodomain,protein,51,0.491394
+5,TLR4_ectodomain,protein,52,0.491997
+5,TLR4_ectodomain,protein,53,0.494599
+5,TLR4_ectodomain,protein,54,0.493170
+5,TLR4_ectodomain,protein,55,0.494241
+5,TLR4_ectodomain,protein,56,0.490158
+5,TLR4_ectodomain,protein,57,0.492779
+5,TLR4_ectodomain,protein,58,0.489607
+5,TLR4_ectodomain,protein,59,0.491863
+5,TLR4_ectodomain,protein,60,0.490469
+5,TLR4_ectodomain,protein,61,0.493229
+5,TLR4_ectodomain,protein,62,0.486884
+5,TLR4_ectodomain,protein,63,0.495605
+5,TLR4_ectodomain,protein,64,0.486664
+5,TLR4_ectodomain,protein,65,0.494155
+5,TLR4_ectodomain,protein,66,0.493541
+5,TLR4_ectodomain,protein,67,0.496609
+5,TLR4_ectodomain,protein,68,0.495184
+5,TLR4_ectodomain,protein,69,0.495009
+5,TLR4_ectodomain,protein,70,0.493330
+5,TLR4_ectodomain,protein,71,0.490976
+5,TLR4_ectodomain,protein,72,0.492959
+5,TLR4_ectodomain,protein,73,0.494018
+5,TLR4_ectodomain,protein,74,0.491610
+5,TLR4_ectodomain,protein,75,0.495552
+5,TLR4_ectodomain,protein,76,0.490059
+5,TLR4_ectodomain,protein,77,0.493521
+5,TLR4_ectodomain,protein,78,0.491617
+5,TLR4_ectodomain,protein,79,0.492691
+5,TLR4_ectodomain,protein,80,0.493634
+5,TLR4_ectodomain,protein,81,0.494196
+5,TLR4_ectodomain,protein,82,0.496207
+5,TLR4_ectodomain,protein,83,0.492383
+5,TLR4_ectodomain,protein,84,0.493527
+5,TLR4_ectodomain,protein,85,0.495799
+5,TLR4_ectodomain,protein,86,0.490526
+5,TLR4_ectodomain,protein,87,0.494745
+5,TLR4_ectodomain,protein,88,0.489859
+5,TLR4_ectodomain,protein,89,0.491343
+5,TLR4_ectodomain,protein,90,0.494078
+5,TLR4_ectodomain,protein,91,0.497184
+5,TLR4_ectodomain,protein,92,0.494169
+5,TLR4_ectodomain,protein,93,0.495927
+5,TLR4_ectodomain,protein,94,0.491202
+5,TLR4_ectodomain,protein,95,0.492500
+5,TLR4_ectodomain,protein,96,0.493787
+5,TLR4_ectodomain,protein,97,0.487163
+5,TLR4_ectodomain,protein,98,0.494526
+5,TLR4_ectodomain,protein,99,0.497323
+5,TLR4_ectodomain,protein,100,0.490072
+5,TLR4_ectodomain,protein,101,0.497470
+5,TLR4_ectodomain,protein,102,0.491575
+5,TLR4_ectodomain,protein,103,0.491451
+5,TLR4_ectodomain,protein,104,0.493695
+5,TLR4_ectodomain,protein,105,0.491755
+5,TLR4_ectodomain,protein,106,0.495294
+5,TLR4_ectodomain,protein,107,0.493315
+5,TLR4_ectodomain,protein,108,0.496675
+5,TLR4_ectodomain,protein,109,0.495484
+5,TLR4_ectodomain,protein,110,0.493651
+5,TLR4_ectodomain,protein,111,0.496159
+5,TLR4_ectodomain,protein,112,0.488972
+5,TLR4_ectodomain,protein,113,0.493438
+5,TLR4_ectodomain,protein,114,0.497265
+5,TLR4_ectodomain,protein,115,0.497248
+5,TLR4_ectodomain,protein,116,0.494125
+5,TLR4_ectodomain,protein,117,0.492694
+5,TLR4_ectodomain,protein,118,0.491052
+5,TLR4_ectodomain,protein,119,0.492879
+5,TLR4_ectodomain,protein,120,0.495931
+5,TLR4_ectodomain,protein,121,0.490663
+5,TLR4_ectodomain,protein,122,0.492221
+5,TLR4_ectodomain,protein,123,0.494764
+5,TLR4_ectodomain,protein,124,0.491509
+5,TLR4_ectodomain,protein,125,0.497914
+5,TLR4_ectodomain,protein,126,0.492234
+5,TLR4_ectodomain,protein,127,0.494455
+5,TLR4_ectodomain,protein,128,0.493197
+5,TLR4_ectodomain,protein,129,0.494147
+5,TLR4_ectodomain,protein,130,0.495705
+5,TLR4_ectodomain,protein,131,0.492696
+5,TLR4_ectodomain,protein,132,0.494761
+5,TLR4_ectodomain,protein,133,0.493218
+5,TLR4_ectodomain,protein,134,0.493793
+5,TLR4_ectodomain,protein,135,0.495261
+5,TLR4_ectodomain,protein,136,0.491652
+5,TLR4_ectodomain,protein,137,0.493199
+5,TLR4_ectodomain,protein,138,0.493461
+5,TLR4_ectodomain,protein,139,0.493097
+5,TLR4_ectodomain,protein,140,0.494640
+5,TLR4_ectodomain,protein,141,0.494424
+5,TLR4_ectodomain,protein,142,0.493640
+5,TLR4_ectodomain,protein,143,0.490973
+5,TLR4_ectodomain,protein,144,0.493094
+5,TLR4_ectodomain,protein,145,0.488139
+5,TLR4_ectodomain,protein,146,0.495672
+5,TLR4_ectodomain,protein,147,0.495088
+5,TLR4_ectodomain,protein,148,0.492611
+5,TLR4_ectodomain,protein,149,0.498244
+5,TLR4_ectodomain,protein,150,0.494886
+5,TLR4_ectodomain,protein,151,0.493608
+5,TLR4_ectodomain,protein,152,0.496459
+5,TLR4_ectodomain,protein,153,0.492600
+5,TLR4_ectodomain,protein,154,0.496589
+5,TLR4_ectodomain,protein,155,0.493719
+5,TLR4_ectodomain,protein,156,0.492769
+5,TLR4_ectodomain,protein,157,0.496280
+5,TLR4_ectodomain,protein,158,0.490484
+5,TLR4_ectodomain,protein,159,0.495330
+5,TLR4_ectodomain,protein,160,0.489323
+5,TLR4_ectodomain,protein,161,0.494111
+5,TLR4_ectodomain,protein,162,0.497304
+5,TLR4_ectodomain,protein,163,0.495583
+5,TLR4_ectodomain,protein,164,0.493901
+5,TLR4_ectodomain,protein,165,0.494100
+5,TLR4_ectodomain,protein,166,0.491585
+5,TLR4_ectodomain,protein,167,0.489116
+5,TLR4_ectodomain,protein,168,0.492511
+5,TLR4_ectodomain,protein,169,0.493107
+5,TLR4_ectodomain,protein,170,0.493011
+5,TLR4_ectodomain,protein,171,0.495089
+5,TLR4_ectodomain,protein,172,0.493994
+5,TLR4_ectodomain,protein,173,0.491317
+5,TLR4_ectodomain,protein,174,0.498000
+5,TLR4_ectodomain,protein,175,0.492404
+5,TLR4_ectodomain,protein,176,0.493173
+5,TLR4_ectodomain,protein,177,0.497261
+5,TLR4_ectodomain,protein,178,0.492600
+5,TLR4_ectodomain,protein,179,0.494495
+5,TLR4_ectodomain,protein,180,0.495146
+5,TLR4_ectodomain,protein,181,0.493862
+5,TLR4_ectodomain,protein,182,0.495619
+5,TLR4_ectodomain,protein,183,0.488728
+5,TLR4_ectodomain,protein,184,0.496043
+5,TLR4_ectodomain,protein,185,0.489979
+5,TLR4_ectodomain,protein,186,0.492810
+5,TLR4_ectodomain,protein,187,0.498660
+5,TLR4_ectodomain,protein,188,0.496002
+5,TLR4_ectodomain,protein,189,0.494209
+5,TLR4_ectodomain,protein,190,0.498106
+5,TLR4_ectodomain,protein,191,0.494075
+5,TLR4_ectodomain,protein,192,0.492255
+5,TLR4_ectodomain,protein,193,0.491800
+5,TLR4_ectodomain,protein,194,0.495134
+5,TLR4_ectodomain,protein,195,0.490567
+5,TLR4_ectodomain,protein,196,0.490481
+5,TLR4_ectodomain,protein,197,0.491783
+5,TLR4_ectodomain,protein,198,0.494490
+5,TLR4_ectodomain,protein,199,0.493686
+5,TLR4_ectodomain,protein,200,0.494091
+5,TLR4_ectodomain,protein,201,0.491937
+5,TLR4_ectodomain,protein,202,0.492375
+5,TLR4_ectodomain,protein,203,0.493595
+5,TLR4_ectodomain,protein,204,0.496276
+5,TLR4_ectodomain,protein,205,0.491180
+5,TLR4_ectodomain,protein,206,0.493731
+5,TLR4_ectodomain,protein,207,0.492950
+5,TLR4_ectodomain,protein,208,0.492765
+5,TLR4_ectodomain,protein,209,0.494986
+5,TLR4_ectodomain,protein,210,0.494363
+5,TLR4_ectodomain,protein,211,0.492281
+5,TLR4_ectodomain,protein,212,0.497656
+5,TLR4_ectodomain,protein,213,0.489893
+5,TLR4_ectodomain,protein,214,0.493850
+5,TLR4_ectodomain,protein,215,0.493713
+5,TLR4_ectodomain,protein,216,0.496002
+5,TLR4_ectodomain,protein,217,0.494880
+5,TLR4_ectodomain,protein,218,0.495106
+5,TLR4_ectodomain,protein,219,0.493918
+5,TLR4_ectodomain,protein,220,0.493456
+5,TLR4_ectodomain,protein,221,0.493935
+5,TLR4_ectodomain,protein,222,0.489896
+5,TLR4_ectodomain,protein,223,0.493341
+5,TLR4_ectodomain,protein,224,0.495804
+5,TLR4_ectodomain,protein,225,0.492841
+5,TLR4_ectodomain,protein,226,0.494572
+5,TLR4_ectodomain,protein,227,0.495786
+5,TLR4_ectodomain,protein,228,0.493157
+5,TLR4_ectodomain,protein,229,0.494656
+5,TLR4_ectodomain,protein,230,0.493389
+5,TLR4_ectodomain,protein,231,0.495801
+5,TLR4_ectodomain,protein,232,0.497014
+5,TLR4_ectodomain,protein,233,0.498035
+5,TLR4_ectodomain,protein,234,0.495108
+5,TLR4_ectodomain,protein,235,0.494596
+5,TLR4_ectodomain,protein,236,0.492431
+5,TLR4_ectodomain,protein,237,0.492261
+5,TLR4_ectodomain,protein,238,0.493691
+5,TLR4_ectodomain,protein,239,0.492229
+5,TLR4_ectodomain,protein,240,0.494561
+5,TLR4_ectodomain,protein,241,0.494280
+5,TLR4_ectodomain,protein,242,0.496899
+5,TLR4_ectodomain,protein,243,0.493218
+5,TLR4_ectodomain,protein,244,0.490853
+5,TLR4_ectodomain,protein,245,0.490094
+5,TLR4_ectodomain,protein,246,0.492067
+5,TLR4_ectodomain,protein,247,0.490469
+5,TLR4_ectodomain,protein,248,0.493269
+5,TLR4_ectodomain,protein,249,0.492463
+5,TLR4_ectodomain,protein,250,0.494917
+5,TLR4_ectodomain,protein,251,0.492099
+5,TLR4_ectodomain,protein,252,0.491748
+5,TLR4_ectodomain,protein,253,0.495017
+5,TLR4_ectodomain,protein,254,0.495238
+5,TLR4_ectodomain,protein,255,0.492294
+5,TLR4_ectodomain,protein,256,0.493171
+5,TLR4_ectodomain,protein,257,0.494510
+5,TLR4_ectodomain,protein,258,0.495853
+5,TLR4_ectodomain,protein,259,0.497798
+5,TLR4_ectodomain,protein,260,0.496205
+5,TLR4_ectodomain,protein,261,0.495298
+5,TLR4_ectodomain,protein,262,0.492489
+5,TLR4_ectodomain,protein,263,0.491688
+5,TLR4_ectodomain,protein,264,0.493458
+5,TLR4_ectodomain,protein,265,0.492799
+5,TLR4_ectodomain,protein,266,0.492313
+5,TLR4_ectodomain,protein,267,0.494771
+5,TLR4_ectodomain,protein,268,0.492423
+5,TLR4_ectodomain,protein,269,0.492987
+5,TLR4_ectodomain,protein,270,0.493675
+5,TLR4_ectodomain,protein,271,0.493215
+5,TLR4_ectodomain,protein,272,0.495052
+5,TLR4_ectodomain,protein,273,0.492665
+5,TLR4_ectodomain,protein,274,0.490822
+5,TLR4_ectodomain,protein,275,0.486870
+5,TLR4_ectodomain,protein,276,0.492996
+5,TLR4_ectodomain,protein,277,0.490138
+5,TLR4_ectodomain,protein,278,0.491908
+5,TLR4_ectodomain,protein,279,0.489940
+5,TLR4_ectodomain,protein,280,0.496007
+5,TLR4_ectodomain,protein,281,0.494882
+5,TLR4_ectodomain,protein,282,0.491409
+5,TLR4_ectodomain,protein,283,0.493097
+5,TLR4_ectodomain,protein,284,0.490941
+5,TLR4_ectodomain,protein,285,0.494091
+5,TLR4_ectodomain,protein,286,0.493122
+5,TLR4_ectodomain,protein,287,0.492916
+5,TLR4_ectodomain,protein,288,0.492342
+5,TLR4_ectodomain,protein,289,0.495688
+5,TLR4_ectodomain,protein,290,0.494275
+5,TLR4_ectodomain,protein,291,0.497386
+5,TLR4_ectodomain,protein,292,0.494125
+5,TLR4_ectodomain,protein,293,0.492117
+5,TLR4_ectodomain,protein,294,0.491289
+5,TLR4_ectodomain,protein,295,0.494506
+5,TLR4_ectodomain,protein,296,0.494759
+5,TLR4_ectodomain,protein,297,0.493176
+5,TLR4_ectodomain,protein,298,0.491664
+5,TLR4_ectodomain,protein,299,0.493564
+5,TLR4_ectodomain,protein,300,0.492211
+5,TLR4_ectodomain,protein,301,0.491376
+5,TLR4_ectodomain,protein,302,0.489204
+5,TLR4_ectodomain,protein,303,0.490689
+5,TLR4_ectodomain,protein,304,0.491827
+5,TLR4_ectodomain,protein,305,0.491624
+5,TLR4_ectodomain,protein,306,0.492201
+5,TLR4_ectodomain,protein,307,0.495119
+5,TLR4_ectodomain,protein,308,0.492241
+5,TLR4_ectodomain,protein,309,0.493524
+5,TLR4_ectodomain,protein,310,0.493354
+5,TLR4_ectodomain,protein,311,0.490676
+5,TLR4_ectodomain,protein,312,0.492534
+5,TLR4_ectodomain,protein,313,0.491522
+5,TLR4_ectodomain,protein,314,0.492472
+5,TLR4_ectodomain,protein,315,0.494798
+5,TLR4_ectodomain,protein,316,0.495736
+5,TLR4_ectodomain,protein,317,0.494033
+5,TLR4_ectodomain,protein,318,0.491771
+5,TLR4_ectodomain,protein,319,0.492894
+5,TLR4_ectodomain,protein,320,0.498656
+5,TLR4_ectodomain,protein,321,0.493461
+5,TLR4_ectodomain,protein,322,0.492926
+5,TLR4_ectodomain,protein,323,0.494789
+5,TLR4_ectodomain,protein,324,0.492959
+5,TLR4_ectodomain,protein,325,0.490305
+5,TLR4_ectodomain,protein,326,0.492797
+5,TLR4_ectodomain,protein,327,0.489711
+5,TLR4_ectodomain,protein,328,0.493460
+5,TLR4_ectodomain,protein,329,0.492986
+5,TLR4_ectodomain,protein,330,0.493107
+5,TLR4_ectodomain,protein,331,0.492246
+5,TLR4_ectodomain,protein,332,0.492180
+5,TLR4_ectodomain,protein,333,0.493959
+5,TLR4_ectodomain,protein,334,0.491400
+5,TLR4_ectodomain,protein,335,0.494050
+5,TLR4_ectodomain,protein,336,0.493255
+5,TLR4_ectodomain,protein,337,0.493065
+5,TLR4_ectodomain,protein,338,0.495452
+5,TLR4_ectodomain,protein,339,0.492301
+5,TLR4_ectodomain,protein,340,0.491507
+5,TLR4_ectodomain,protein,341,0.492701
+5,TLR4_ectodomain,protein,342,0.494046
+5,TLR4_ectodomain,protein,343,0.497296
+5,TLR4_ectodomain,protein,344,0.492626
+5,TLR4_ectodomain,protein,345,0.492896
+5,TLR4_ectodomain,protein,346,0.493360
+5,TLR4_ectodomain,protein,347,0.492456
+5,TLR4_ectodomain,protein,348,0.494581
+5,TLR4_ectodomain,protein,349,0.491888
+5,TLR4_ectodomain,protein,350,0.495310
+5,TLR4_ectodomain,protein,351,0.494816
+5,TLR4_ectodomain,protein,352,0.493147
+5,TLR4_ectodomain,protein,353,0.495944
+5,TLR4_ectodomain,protein,354,0.493062
+5,TLR4_ectodomain,protein,355,0.493463
+5,TLR4_ectodomain,protein,356,0.492991
+5,TLR4_ectodomain,protein,357,0.493482
+5,TLR4_ectodomain,protein,358,0.494680
+5,TLR4_ectodomain,protein,359,0.490325
+5,TLR4_ectodomain,protein,360,0.493518
+5,TLR4_ectodomain,protein,361,0.491207
+5,TLR4_ectodomain,protein,362,0.491434
+5,TLR4_ectodomain,protein,363,0.497678
+5,TLR4_ectodomain,protein,364,0.495735
+5,TLR4_ectodomain,protein,365,0.491078
+5,TLR4_ectodomain,protein,366,0.494648
+5,TLR4_ectodomain,protein,367,0.493775
+5,TLR4_ectodomain,protein,368,0.491565
+5,TLR4_ectodomain,protein,369,0.492343
+5,TLR4_ectodomain,protein,370,0.494557
+5,TLR4_ectodomain,protein,371,0.489616
+5,TLR4_ectodomain,protein,372,0.493516
+5,TLR4_ectodomain,protein,373,0.494194
+5,TLR4_ectodomain,protein,374,0.493366
+5,TLR4_ectodomain,protein,375,0.496389
+5,TLR4_ectodomain,protein,376,0.493376
+5,TLR4_ectodomain,protein,377,0.494099
+5,TLR4_ectodomain,protein,378,0.493602
+5,TLR4_ectodomain,protein,379,0.493798
+5,TLR4_ectodomain,protein,380,0.493844
+5,TLR4_ectodomain,protein,381,0.487029
+5,TLR4_ectodomain,protein,382,0.494422
+5,TLR4_ectodomain,protein,383,0.489920
+5,TLR4_ectodomain,protein,384,0.494636
+5,TLR4_ectodomain,protein,385,0.494570
+5,TLR4_ectodomain,protein,386,0.493272
+5,TLR4_ectodomain,protein,387,0.493050
+5,TLR4_ectodomain,protein,388,0.491716
+5,TLR4_ectodomain,protein,389,0.493772
+5,TLR4_ectodomain,protein,390,0.493121
+5,TLR4_ectodomain,protein,391,0.492494
+5,TLR4_ectodomain,protein,392,0.489241
+5,TLR4_ectodomain,protein,393,0.490293
+5,TLR4_ectodomain,protein,394,0.491141
+5,TLR4_ectodomain,protein,395,0.491189
+5,TLR4_ectodomain,protein,396,0.492534
+5,TLR4_ectodomain,protein,397,0.491574
+5,TLR4_ectodomain,protein,398,0.493771
+5,TLR4_ectodomain,protein,399,0.493303
+5,TLR4_ectodomain,protein,400,0.493521
+5,TLR4_ectodomain,protein,401,0.497230
+5,TLR4_ectodomain,protein,402,0.495546
+5,TLR4_ectodomain,protein,403,0.494312
+5,TLR4_ectodomain,protein,404,0.492819
+5,TLR4_ectodomain,protein,405,0.496223
+5,TLR4_ectodomain,protein,406,0.495176
+5,TLR4_ectodomain,protein,407,0.486812
+5,TLR4_ectodomain,protein,408,0.492937
+5,TLR4_ectodomain,protein,409,0.489509
+5,TLR4_ectodomain,protein,410,0.493934
+5,TLR4_ectodomain,protein,411,0.495280
+5,TLR4_ectodomain,protein,412,0.497350
+5,TLR4_ectodomain,protein,413,0.491819
+5,TLR4_ectodomain,protein,414,0.491155
+5,TLR4_ectodomain,protein,415,0.490073
+5,TLR4_ectodomain,protein,416,0.491212
+5,TLR4_ectodomain,protein,417,0.492730
+5,TLR4_ectodomain,protein,418,0.491239
+5,TLR4_ectodomain,protein,419,0.491006
+5,TLR4_ectodomain,protein,420,0.492909
+5,TLR4_ectodomain,protein,421,0.496259
+5,TLR4_ectodomain,protein,422,0.493912
+5,TLR4_ectodomain,protein,423,0.494342
+5,TLR4_ectodomain,protein,424,0.496893
+5,TLR4_ectodomain,protein,425,0.493739
+5,TLR4_ectodomain,protein,426,0.492182
+5,TLR4_ectodomain,protein,427,0.494087
+5,TLR4_ectodomain,protein,428,0.497605
+5,TLR4_ectodomain,protein,429,0.493998
+5,TLR4_ectodomain,protein,430,0.490714
+5,TLR4_ectodomain,protein,431,0.493020
+5,TLR4_ectodomain,protein,432,0.488181
+5,TLR4_ectodomain,protein,433,0.492216
+5,TLR4_ectodomain,protein,434,0.496053
+5,TLR4_ectodomain,protein,435,0.493293
+5,TLR4_ectodomain,protein,436,0.495284
+5,TLR4_ectodomain,protein,437,0.492941
+5,TLR4_ectodomain,protein,438,0.492138
+5,TLR4_ectodomain,protein,439,0.491634
+5,TLR4_ectodomain,protein,440,0.490954
+5,TLR4_ectodomain,protein,441,0.488083
+5,TLR4_ectodomain,protein,442,0.490395
+5,TLR4_ectodomain,protein,443,0.492646
+5,TLR4_ectodomain,protein,444,0.494300
+5,TLR4_ectodomain,protein,445,0.494237
+5,TLR4_ectodomain,protein,446,0.496108
+5,TLR4_ectodomain,protein,447,0.494179
+5,TLR4_ectodomain,protein,448,0.493015
+5,TLR4_ectodomain,protein,449,0.495192
+5,TLR4_ectodomain,protein,450,0.495020
+5,TLR4_ectodomain,protein,451,0.492765
+5,TLR4_ectodomain,protein,452,0.493497
+5,TLR4_ectodomain,protein,453,0.496870
+5,TLR4_ectodomain,protein,454,0.497022
+5,TLR4_ectodomain,protein,455,0.489871
+5,TLR4_ectodomain,protein,456,0.492925
+5,TLR4_ectodomain,protein,457,0.489781
+5,TLR4_ectodomain,protein,458,0.489897
+5,TLR4_ectodomain,protein,459,0.493998
+5,TLR4_ectodomain,protein,460,0.493963
+5,TLR4_ectodomain,protein,461,0.495015
+5,TLR4_ectodomain,protein,462,0.492564
+5,TLR4_ectodomain,protein,463,0.492287
+5,TLR4_ectodomain,protein,464,0.489675
+5,TLR4_ectodomain,protein,465,0.491566
+5,TLR4_ectodomain,protein,466,0.491283
+5,TLR4_ectodomain,protein,467,0.490659
+5,TLR4_ectodomain,protein,468,0.494581
+5,TLR4_ectodomain,protein,469,0.492324
+5,TLR4_ectodomain,protein,470,0.493502
+5,TLR4_ectodomain,protein,471,0.491856
+5,TLR4_ectodomain,protein,472,0.493212
+5,TLR4_ectodomain,protein,473,0.495892
+5,TLR4_ectodomain,protein,474,0.493766
+5,TLR4_ectodomain,protein,475,0.494725
+5,TLR4_ectodomain,protein,476,0.493969
+5,TLR4_ectodomain,protein,477,0.496389
+5,TLR4_ectodomain,protein,478,0.495925
+5,TLR4_ectodomain,protein,479,0.493036
+5,TLR4_ectodomain,protein,480,0.495431
+5,TLR4_ectodomain,protein,481,0.483979
+5,TLR4_ectodomain,protein,482,0.493119
+5,TLR4_ectodomain,protein,483,0.494369
+5,TLR4_ectodomain,protein,484,0.493382
+5,TLR4_ectodomain,protein,485,0.492074
+5,TLR4_ectodomain,protein,486,0.493033
+5,TLR4_ectodomain,protein,487,0.494286
+5,TLR4_ectodomain,protein,488,0.491920
+5,TLR4_ectodomain,protein,489,0.489616
+5,TLR4_ectodomain,protein,490,0.492053
+5,TLR4_ectodomain,protein,491,0.493396
+5,TLR4_ectodomain,protein,492,0.490799
+5,TLR4_ectodomain,protein,493,0.492147
+5,TLR4_ectodomain,protein,494,0.493757
+5,TLR4_ectodomain,protein,495,0.496691
+5,TLR4_ectodomain,protein,496,0.493152
+5,TLR4_ectodomain,protein,497,0.494494
+5,TLR4_ectodomain,protein,498,0.495700
+5,TLR4_ectodomain,protein,499,0.491935
+5,TLR4_ectodomain,protein,500,0.493713
+5,TLR4_ectodomain,protein,501,0.493286
+5,TLR4_ectodomain,protein,502,0.494852
+5,TLR4_ectodomain,protein,503,0.495588
+5,TLR4_ectodomain,protein,504,0.486475
+5,TLR4_ectodomain,protein,505,0.495727
+5,TLR4_ectodomain,protein,506,0.487638
+5,TLR4_ectodomain,protein,507,0.491740
+5,TLR4_ectodomain,protein,508,0.491259
+5,TLR4_ectodomain,protein,509,0.494714
+5,TLR4_ectodomain,protein,510,0.493283
+5,TLR4_ectodomain,protein,511,0.491489
+5,TLR4_ectodomain,protein,512,0.491744
+5,TLR4_ectodomain,protein,513,0.488970
+5,TLR4_ectodomain,protein,514,0.491408
+5,TLR4_ectodomain,protein,515,0.490820
+5,TLR4_ectodomain,protein,516,0.491002
+5,TLR4_ectodomain,protein,517,0.494310
+5,TLR4_ectodomain,protein,518,0.490987
+5,TLR4_ectodomain,protein,519,0.496194
+5,TLR4_ectodomain,protein,520,0.491134
+5,TLR4_ectodomain,protein,521,0.492597
+5,TLR4_ectodomain,protein,522,0.496999
+5,TLR4_ectodomain,protein,523,0.493717
+5,TLR4_ectodomain,protein,524,0.495336
+5,TLR4_ectodomain,protein,525,0.493096
+5,TLR4_ectodomain,protein,526,0.498207
+5,TLR4_ectodomain,protein,527,0.492544
+5,TLR4_ectodomain,protein,528,0.488673
+5,TLR4_ectodomain,protein,529,0.495660
+5,TLR4_ectodomain,protein,530,0.489290
+5,TLR4_ectodomain,protein,531,0.492939
+5,TLR4_ectodomain,protein,532,0.491664
+5,TLR4_ectodomain,protein,533,0.494004
+5,TLR4_ectodomain,protein,534,0.495327
+5,TLR4_ectodomain,protein,535,0.490508
+5,TLR4_ectodomain,protein,536,0.491706
+5,TLR4_ectodomain,protein,537,0.489899
+5,TLR4_ectodomain,protein,538,0.492780
+5,TLR4_ectodomain,protein,539,0.491236
+5,TLR4_ectodomain,protein,540,0.491320
+5,TLR4_ectodomain,protein,541,0.493991
+5,TLR4_ectodomain,protein,542,0.493596
+5,TLR4_ectodomain,protein,543,0.495813
+5,TLR4_ectodomain,protein,544,0.491819
+5,TLR4_ectodomain,protein,545,0.492126
+5,TLR4_ectodomain,protein,546,0.495115
+5,TLR4_ectodomain,protein,547,0.494804
+5,TLR4_ectodomain,protein,548,0.495746
+5,TLR4_ectodomain,protein,549,0.492112
+5,TLR4_ectodomain,protein,550,0.497529
+5,TLR4_ectodomain,protein,551,0.494056
+5,TLR4_ectodomain,protein,552,0.489776
+5,TLR4_ectodomain,protein,553,0.495023
+5,TLR4_ectodomain,protein,554,0.490727
+5,TLR4_ectodomain,protein,555,0.491989
+5,TLR4_ectodomain,protein,556,0.497152
+5,TLR4_ectodomain,protein,557,0.493447
+5,TLR4_ectodomain,protein,558,0.494310
+5,TLR4_ectodomain,protein,559,0.494920
+5,TLR4_ectodomain,protein,560,0.495418
+5,TLR4_ectodomain,protein,561,0.492937
+5,TLR4_ectodomain,protein,562,0.495306
+5,TLR4_ectodomain,protein,563,0.493608
+5,TLR4_ectodomain,protein,564,0.491295
+5,TLR4_ectodomain,protein,565,0.494057
+5,TLR4_ectodomain,protein,566,0.490783
+5,TLR4_ectodomain,protein,567,0.493403
+5,TLR4_ectodomain,protein,568,0.492494
+5,TLR4_ectodomain,protein,569,0.493169
+5,TLR4_ectodomain,protein,570,0.493406
+5,TLR4_ectodomain,protein,571,0.496109
+5,TLR4_ectodomain,protein,572,0.493498
+5,TLR4_ectodomain,protein,573,0.496154
+5,TLR4_ectodomain,protein,574,0.494984
+5,TLR4_ectodomain,protein,575,0.495839
+5,TLR4_ectodomain,protein,576,0.494298
+5,TLR4_ectodomain,protein,577,0.491361
+5,TLR4_ectodomain,protein,578,0.493812
+5,TLR4_ectodomain,protein,579,0.486422
+5,TLR4_ectodomain,protein,580,0.493970
+5,TLR4_ectodomain,protein,581,0.491721
+5,TLR4_ectodomain,protein,582,0.492416
+5,TLR4_ectodomain,protein,583,0.491802
+5,TLR4_ectodomain,protein,584,0.491122
+5,TLR4_ectodomain,protein,585,0.494700
+5,TLR4_ectodomain,protein,586,0.494564
+5,TLR4_ectodomain,protein,587,0.493214
+5,TLR4_ectodomain,protein,588,0.494387
+5,TLR4_ectodomain,protein,589,0.494330
+5,TLR4_ectodomain,protein,590,0.495039
+5,TLR4_ectodomain,protein,591,0.493371
+5,TLR4_ectodomain,protein,592,0.495263
+5,TLR4_ectodomain,protein,593,0.495372
+5,TLR4_ectodomain,protein,594,0.497310
+5,TLR4_ectodomain,protein,595,0.495171
+5,TLR4_ectodomain,protein,596,0.496736
+5,TLR4_ectodomain,protein,597,0.495472
+5,TLR4_ectodomain,protein,598,0.495500
+5,TLR4_ectodomain,protein,599,0.496429
+5,TLR4_ectodomain,protein,600,0.494095
+5,TLR4_ectodomain,protein,601,0.493735
+5,TLR4_ectodomain,protein,602,0.495329
+5,TLR4_ectodomain,protein,603,0.492281
+5,TLR4_ectodomain,protein,604,0.497356
+5,TLR4_ectodomain,protein,605,0.492749
+5,TLR4_ectodomain,protein,606,0.491169
+5,TLR4_ectodomain,protein,607,0.490839
+5,TLR4_ectodomain,protein,608,0.489469
+5,TLR4_ectodomain,protein,609,0.493677
+5,TLR4_ectodomain,protein,610,0.490634
+5,TLR4_ectodomain,protein,611,0.488366
+5,TLR4_ectodomain,protein,612,0.492940
+5,TLR4_ectodomain,protein,613,0.492677
+5,TLR4_ectodomain,protein,614,0.490101
+5,TLR4_ectodomain,protein,615,0.494052
+5,TLR4_ectodomain,protein,616,0.495627
+5,TLR4_ectodomain,protein,617,0.490719
+5,TLR4_ectodomain,protein,618,0.494120
+5,TLR4_ectodomain,protein,619,0.495055
+5,TLR4_ectodomain,protein,620,0.497432
+5,TLR4_ectodomain,protein,621,0.496907
+5,TLR4_ectodomain,protein,622,0.492921
+5,TLR4_ectodomain,protein,623,0.494141
+5,TLR4_ectodomain,protein,624,0.487897
+5,TLR4_ectodomain,protein,625,0.490715
+5,TLR4_ectodomain,protein,626,0.490422
+5,TLR4_ectodomain,protein,627,0.491705
+5,TLR4_ectodomain,protein,628,0.494056
+5,TLR4_ectodomain,protein,629,0.490872
+5,TLR4_ectodomain,protein,630,0.494160
+5,TLR4_ectodomain,protein,631,0.491770
+5,TLR4_ectodomain,protein,632,0.490938
+5,TLR4_ectodomain,protein,633,0.490121
+5,TLR4_ectodomain,protein,634,0.491346
+5,TLR4_ectodomain,protein,635,0.494102
+5,TLR4_ectodomain,protein,636,0.491089
+5,TLR4_ectodomain,protein,637,0.489354
+5,TLR4_ectodomain,protein,638,0.491968
+5,TLR4_ectodomain,protein,639,0.492036
+5,TLR4_ectodomain,protein,640,0.490085
+5,TLR4_ectodomain,protein,641,0.492428
+5,TLR4_ectodomain,protein,642,0.489696
+5,TLR4_ectodomain,protein,643,0.494544
+5,TLR4_ectodomain,protein,644,0.494143
+5,TLR4_ectodomain,protein,645,0.491422
+5,TLR4_ectodomain,protein,646,0.492108
+5,TLR4_ectodomain,protein,647,0.492562
+5,TLR4_ectodomain,protein,648,0.491176
+5,TLR4_ectodomain,protein,649,0.491835
+5,TLR4_ectodomain,protein,650,0.494233
+5,TLR4_ectodomain,protein,651,0.494335
+5,TLR4_ectodomain,protein,652,0.494688
+5,TLR4_ectodomain,protein,653,0.493950
+5,TLR4_ectodomain,protein,654,0.494955
+5,TLR4_ectodomain,protein,655,0.494759
+5,TLR4_ectodomain,protein,656,0.493945
+5,TLR4_ectodomain,protein,657,0.496666
+5,TLR4_ectodomain,protein,658,0.492430
+5,TLR4_ectodomain,protein,659,0.495298
+5,TLR4_ectodomain,protein,660,0.492004
+5,TLR4_ectodomain,protein,661,0.494274
+5,TLR4_ectodomain,protein,662,0.496385
+5,TLR4_ectodomain,protein,663,0.496895
+5,TLR4_ectodomain,protein,664,0.496139
+5,TLR4_ectodomain,protein,665,0.496104
+5,TLR4_ectodomain,protein,666,0.495062
+5,TLR4_ectodomain,protein,667,0.493383
+5,TLR4_ectodomain,protein,668,0.494964
+5,TLR4_ectodomain,protein,669,0.495236
+5,TLR4_ectodomain,protein,670,0.497251
+5,TLR4_ectodomain,protein,671,0.493397
+5,TLR4_ectodomain,protein,672,0.492947
+5,TLR4_ectodomain,protein,673,0.496048
+5,TLR4_ectodomain,protein,674,0.492974
+5,TLR4_ectodomain,protein,675,0.494552
+5,TLR4_ectodomain,protein,676,0.496450
+5,TLR4_ectodomain,protein,677,0.498041
+5,TLR4_ectodomain,protein,678,0.496318
+5,TLR4_ectodomain,protein,679,0.493179
+5,TLR4_ectodomain,protein,680,0.498304
+5,TLR4_ectodomain,protein,681,0.499126
+5,TLR4_ectodomain,protein,682,0.494324
+5,TLR4_ectodomain,protein,683,0.498323
+5,TLR4_ectodomain,protein,684,0.493891
+5,TLR4_ectodomain,protein,685,0.492513
+5,TLR4_ectodomain,protein,686,0.493389
+5,TLR4_ectodomain,protein,687,0.492803
+5,TLR4_ectodomain,protein,688,0.488663
+5,TLR4_ectodomain,protein,689,0.495243
+5,TLR4_ectodomain,protein,690,0.496626
+5,TLR4_ectodomain,protein,691,0.492197
+5,TLR4_ectodomain,protein,692,0.498299
+5,TLR4_ectodomain,protein,693,0.496066
+5,TLR4_ectodomain,protein,694,0.494814
+5,TLR4_ectodomain,protein,695,0.492731
+5,TLR4_ectodomain,protein,696,0.493888
+5,TLR4_ectodomain,protein,697,0.493394
+5,TLR4_ectodomain,protein,698,0.492655
+5,TLR4_ectodomain,protein,699,0.492384
+5,TLR4_ectodomain,protein,700,0.491006
+5,TLR4_ectodomain,protein,701,0.494761
+5,TLR4_ectodomain,protein,702,0.494968
+5,TLR4_ectodomain,protein,703,0.494581
+5,TLR4_ectodomain,protein,704,0.496459
+5,TLR4_ectodomain,protein,705,0.493759
+5,TLR4_ectodomain,protein,706,0.494093
+5,TLR4_ectodomain,protein,707,0.498795
+5,TLR4_ectodomain,protein,708,0.492517
+5,TLR4_ectodomain,protein,709,0.499904
+5,TLR4_ectodomain,protein,710,0.496219
+5,TLR4_ectodomain,protein,711,0.498205
+5,TLR4_ectodomain,protein,712,0.496054
+5,TLR4_ectodomain,protein,713,0.494650
+5,TLR4_ectodomain,protein,714,0.492821
+5,TLR4_ectodomain,protein,715,0.495325
+5,TLR4_ectodomain,protein,716,0.495782
+5,TLR4_ectodomain,protein,717,0.494818
+5,TLR4_ectodomain,protein,718,0.495476
+5,TLR4_ectodomain,protein,719,0.493508
+5,TLR4_ectodomain,protein,720,0.492130
+5,TLR4_ectodomain,protein,721,0.490809
+5,TLR4_ectodomain,protein,722,0.493169
+5,TLR4_ectodomain,protein,723,0.494989
+5,TLR4_ectodomain,protein,724,0.493379
+5,TLR4_ectodomain,protein,725,0.493007
+5,TLR4_ectodomain,protein,726,0.491630
+5,TLR4_ectodomain,protein,727,0.490845
+5,TLR4_ectodomain,protein,728,0.488078
+5,TLR4_ectodomain,protein,729,0.492844
+5,TLR4_ectodomain,protein,730,0.489550
+5,TLR4_ectodomain,protein,731,0.491737
+5,TLR4_ectodomain,protein,732,0.492932
+5,TLR4_ectodomain,protein,733,0.491280
+5,TLR4_ectodomain,protein,734,0.489108
+5,TLR4_ectodomain,protein,735,0.491176
+5,TLR4_ectodomain,protein,736,0.495633
+5,TLR4_ectodomain,protein,737,0.494917
+5,TLR4_ectodomain,protein,738,0.495644
+5,TLR4_ectodomain,protein,739,0.495014
+5,TLR4_ectodomain,protein,740,0.495950
+5,TLR4_ectodomain,protein,741,0.495667
+5,TLR4_ectodomain,protein,742,0.494674
+5,TLR4_ectodomain,protein,743,0.495232
+5,TLR4_ectodomain,protein,744,0.493389
+5,TLR4_ectodomain,protein,745,0.494577
+5,TLR4_ectodomain,protein,746,0.494356
+5,TLR4_ectodomain,protein,747,0.494689
+5,TLR4_ectodomain,protein,748,0.493591
+5,TLR4_ectodomain,protein,749,0.495726
+5,TLR4_ectodomain,protein,750,0.494398
+5,TLR4_ectodomain,protein,751,0.491851
+5,TLR4_ectodomain,protein,752,0.492416
+5,TLR4_ectodomain,protein,753,0.493895
+5,TLR4_ectodomain,protein,754,0.493693
+5,TLR4_ectodomain,protein,755,0.496233
+5,TLR4_ectodomain,protein,756,0.496252
+5,TLR4_ectodomain,protein,757,0.493020
+5,TLR4_ectodomain,protein,758,0.496877
+5,TLR4_ectodomain,protein,759,0.490824
+5,TLR4_ectodomain,protein,760,0.495026
+5,TLR4_ectodomain,protein,761,0.491315
+5,TLR4_ectodomain,protein,762,0.491727
+5,TLR4_ectodomain,protein,763,0.493780
+5,TLR4_ectodomain,protein,764,0.495822
+5,TLR4_ectodomain,protein,765,0.493616
+5,TLR4_ectodomain,protein,766,0.494771
+5,TLR4_ectodomain,protein,767,0.494150
+5,TLR4_ectodomain,protein,768,0.492833
+5,TLR4_ectodomain,protein,769,0.494820
+5,TLR4_ectodomain,protein,770,0.495645
+5,TLR4_ectodomain,protein,771,0.494432
+5,TLR4_ectodomain,protein,772,0.493558
+5,TLR4_ectodomain,protein,773,0.494574
+5,TLR4_ectodomain,protein,774,0.492679
+5,TLR4_ectodomain,protein,775,0.494391
+5,TLR4_ectodomain,protein,776,0.499288
+5,TLR4_ectodomain,protein,777,0.497651
+5,TLR4_ectodomain,protein,778,0.497079
+5,TLR4_ectodomain,protein,779,0.497233
+5,TLR4_ectodomain,protein,780,0.496407
+5,TLR4_ectodomain,protein,781,0.496816
+5,TLR4_ectodomain,protein,782,0.496018
+5,TLR4_ectodomain,protein,783,0.494974
+5,TLR4_ectodomain,protein,784,0.494165
+5,TLR4_ectodomain,protein,785,0.497711
+5,TLR4_ectodomain,protein,786,0.501198
+5,TLR4_ectodomain,protein,787,0.498134
+5,TLR4_ectodomain,protein,788,0.496426
+5,TLR4_ectodomain,protein,789,0.501069
+5,TLR4_ectodomain,protein,790,0.497954
+5,TLR4_ectodomain,protein,791,0.497416
+5,TLR4_ectodomain,protein,792,0.496617
+5,TLR4_ectodomain,protein,793,0.499710
+5,TLR4_ectodomain,protein,794,0.493892
+5,TLR4_ectodomain,protein,795,0.499298
+5,TLR4_ectodomain,protein,796,0.500221
+5,TLR4_ectodomain,protein,797,0.497559
+5,TLR4_ectodomain,protein,798,0.496362
+5,TLR4_ectodomain,protein,799,0.494462
+5,TLR4_ectodomain,protein,800,0.491350
+5,TLR4_ectodomain,protein,801,0.493380
+5,TLR4_ectodomain,protein,802,0.494426
+5,TLR4_ectodomain,protein,803,0.501118
+5,TLR4_ectodomain,protein,804,0.495662
+5,TLR4_ectodomain,protein,805,0.492760
+5,TLR4_ectodomain,protein,806,0.498021
+5,TLR4_ectodomain,protein,807,0.500233
+5,TLR4_ectodomain,protein,808,0.495381
+5,TLR4_ectodomain,protein,809,0.493965
+5,TLR4_ectodomain,protein,810,0.496255
+5,TLR4_ectodomain,protein,811,0.491570
+5,TLR4_ectodomain,protein,812,0.493536
+5,TLR4_ectodomain,protein,813,0.494191
+5,TLR4_ectodomain,protein,814,0.494941
+5,TLR4_ectodomain,protein,815,0.494462
+5,TLR4_ectodomain,protein,816,0.494905
+5,TLR4_ectodomain,protein,817,0.493613
+5,TLR4_ectodomain,protein,818,0.492191
+5,TLR4_ectodomain,protein,819,0.493075
+5,TLR4_ectodomain,protein,820,0.494958
+5,TLR4_ectodomain,protein,821,0.495590
+5,TLR4_ectodomain,protein,822,0.491436
+5,TLR4_ectodomain,protein,823,0.493455
+5,TLR4_ectodomain,protein,824,0.491630
+5,TLR4_ectodomain,protein,825,0.495918
+5,TLR4_ectodomain,protein,826,0.491565
+5,TLR4_ectodomain,protein,827,0.492944
+5,TLR4_ectodomain,protein,828,0.492454
+5,TLR4_ectodomain,protein,829,0.491215
+5,TLR4_ectodomain,protein,830,0.494505
+5,TLR4_ectodomain,protein,831,0.491807
+5,TLR4_ectodomain,protein,832,0.491341
+5,TLR4_ectodomain,protein,833,0.493697
+5,TLR4_ectodomain,protein,834,0.492468
+5,TLR4_ectodomain,protein,835,0.490608
+5,TLR4_ectodomain,protein,836,0.491742
+5,TLR4_ectodomain,protein,837,0.490583
+5,TLR4_ectodomain,protein,838,0.490071
+5,TLR4_ectodomain,protein,839,0.494526
+6,HSPD1_full,peptide,1,0.492367
+6,HSPD1_full,peptide,2,0.494661
+6,HSPD1_full,peptide,3,0.497177
+6,HSPD1_full,peptide,4,0.494713
+6,HSPD1_full,peptide,5,0.496321
+6,HSPD1_full,peptide,6,0.490883
+6,HSPD1_full,peptide,7,0.494057
+6,HSPD1_full,peptide,8,0.494121
+6,HSPD1_full,peptide,9,0.493104
+6,HSPD1_full,peptide,10,0.495600
+6,HSPD1_full,peptide,11,0.493896
+6,HSPD1_full,peptide,12,0.495478
+6,HSPD1_full,peptide,13,0.491958
+6,HSPD1_full,peptide,14,0.495170
+6,HSPD1_full,peptide,15,0.496933
+6,HSPD1_full,peptide,16,0.494816
+6,HSPD1_full,peptide,17,0.494009
+6,HSPD1_full,peptide,18,0.494836
+6,HSPD1_full,peptide,19,0.494017
+6,HSPD1_full,peptide,20,0.493701
+6,HSPD1_full,peptide,21,0.492415
+6,HSPD1_full,peptide,22,0.494074
+6,HSPD1_full,peptide,23,0.493744
+6,HSPD1_full,peptide,24,0.493111
+6,HSPD1_full,peptide,25,0.492954
+6,HSPD1_full,peptide,26,0.494002
+6,HSPD1_full,protein,1,0.493311
+6,HSPD1_full,protein,2,0.489851
+6,HSPD1_full,protein,3,0.491881
+6,HSPD1_full,protein,4,0.491208
+6,HSPD1_full,protein,5,0.493616
+6,HSPD1_full,protein,6,0.493042
+6,HSPD1_full,protein,7,0.493303
+6,HSPD1_full,protein,8,0.492383
+6,HSPD1_full,protein,9,0.492344
+6,HSPD1_full,protein,10,0.495252
+6,HSPD1_full,protein,11,0.494298
+6,HSPD1_full,protein,12,0.492579
+6,HSPD1_full,protein,13,0.492696
+6,HSPD1_full,protein,14,0.494197
+6,HSPD1_full,protein,15,0.491440
+6,HSPD1_full,protein,16,0.491934
+6,HSPD1_full,protein,17,0.493615
+6,HSPD1_full,protein,18,0.493033
+6,HSPD1_full,protein,19,0.490489
+6,HSPD1_full,protein,20,0.492626
+6,HSPD1_full,protein,21,0.494398
+6,HSPD1_full,protein,22,0.493901
+6,HSPD1_full,protein,23,0.494016
+6,HSPD1_full,protein,24,0.495863
+6,HSPD1_full,protein,25,0.495097
+6,HSPD1_full,protein,26,0.495702
+6,HSPD1_full,protein,27,0.494785
+6,HSPD1_full,protein,28,0.496097
+6,HSPD1_full,protein,29,0.495080
+6,HSPD1_full,protein,30,0.495141
+6,HSPD1_full,protein,31,0.495314
+6,HSPD1_full,protein,32,0.495477
+6,HSPD1_full,protein,33,0.493299
+6,HSPD1_full,protein,34,0.492498
+6,HSPD1_full,protein,35,0.494256
+6,HSPD1_full,protein,36,0.493255
+6,HSPD1_full,protein,37,0.496062
+6,HSPD1_full,protein,38,0.492375
+6,HSPD1_full,protein,39,0.495043
+6,HSPD1_full,protein,40,0.495236
+6,HSPD1_full,protein,41,0.493836
+6,HSPD1_full,protein,42,0.494835
+6,HSPD1_full,protein,43,0.494869
+6,HSPD1_full,protein,44,0.495296
+6,HSPD1_full,protein,45,0.490838
+6,HSPD1_full,protein,46,0.494161
+6,HSPD1_full,protein,47,0.494931
+6,HSPD1_full,protein,48,0.488733
+6,HSPD1_full,protein,49,0.492427
+6,HSPD1_full,protein,50,0.491678
+6,HSPD1_full,protein,51,0.493749
+6,HSPD1_full,protein,52,0.491972
+6,HSPD1_full,protein,53,0.493878
+6,HSPD1_full,protein,54,0.492902
+6,HSPD1_full,protein,55,0.496671
+6,HSPD1_full,protein,56,0.492761
+6,HSPD1_full,protein,57,0.495379
+6,HSPD1_full,protein,58,0.492980
+6,HSPD1_full,protein,59,0.495240
+6,HSPD1_full,protein,60,0.497008
+6,HSPD1_full,protein,61,0.492313
+6,HSPD1_full,protein,62,0.493664
+6,HSPD1_full,protein,63,0.496112
+6,HSPD1_full,protein,64,0.498760
+6,HSPD1_full,protein,65,0.492381
+6,HSPD1_full,protein,66,0.493782
+6,HSPD1_full,protein,67,0.492694
+6,HSPD1_full,protein,68,0.491559
+6,HSPD1_full,protein,69,0.492037
+6,HSPD1_full,protein,70,0.493963
+6,HSPD1_full,protein,71,0.499339
+6,HSPD1_full,protein,72,0.496008
+6,HSPD1_full,protein,73,0.493106
+6,HSPD1_full,protein,74,0.491798
+6,HSPD1_full,protein,75,0.493841
+6,HSPD1_full,protein,76,0.496887
+6,HSPD1_full,protein,77,0.488696
+6,HSPD1_full,protein,78,0.492665
+6,HSPD1_full,protein,79,0.487564
+6,HSPD1_full,protein,80,0.496492
+6,HSPD1_full,protein,81,0.492912
+6,HSPD1_full,protein,82,0.492341
+6,HSPD1_full,protein,83,0.490855
+6,HSPD1_full,protein,84,0.497511
+6,HSPD1_full,protein,85,0.493325
+6,HSPD1_full,protein,86,0.496242
+6,HSPD1_full,protein,87,0.491573
+6,HSPD1_full,protein,88,0.491488
+6,HSPD1_full,protein,89,0.494993
+6,HSPD1_full,protein,90,0.497980
+6,HSPD1_full,protein,91,0.493891
+6,HSPD1_full,protein,92,0.491774
+6,HSPD1_full,protein,93,0.497071
+6,HSPD1_full,protein,94,0.494123
+6,HSPD1_full,protein,95,0.490904
+6,HSPD1_full,protein,96,0.493834
+6,HSPD1_full,protein,97,0.495551
+6,HSPD1_full,protein,98,0.493738
+6,HSPD1_full,protein,99,0.495954
+6,HSPD1_full,protein,100,0.492006
+6,HSPD1_full,protein,101,0.493950
+6,HSPD1_full,protein,102,0.491594
+6,HSPD1_full,protein,103,0.494915
+6,HSPD1_full,protein,104,0.490586
+6,HSPD1_full,protein,105,0.493703
+6,HSPD1_full,protein,106,0.495357
+6,HSPD1_full,protein,107,0.495916
+6,HSPD1_full,protein,108,0.490335
+6,HSPD1_full,protein,109,0.490868
+6,HSPD1_full,protein,110,0.492923
+6,HSPD1_full,protein,111,0.494447
+6,HSPD1_full,protein,112,0.493787
+6,HSPD1_full,protein,113,0.492666
+6,HSPD1_full,protein,114,0.495494
+6,HSPD1_full,protein,115,0.489722
+6,HSPD1_full,protein,116,0.492592
+6,HSPD1_full,protein,117,0.493157
+6,HSPD1_full,protein,118,0.491517
+6,HSPD1_full,protein,119,0.494839
+6,HSPD1_full,protein,120,0.492356
+6,HSPD1_full,protein,121,0.496706
+6,HSPD1_full,protein,122,0.492194
+6,HSPD1_full,protein,123,0.494685
+6,HSPD1_full,protein,124,0.493551
+6,HSPD1_full,protein,125,0.491322
+6,HSPD1_full,protein,126,0.493847
+6,HSPD1_full,protein,127,0.497205
+6,HSPD1_full,protein,128,0.497682
+6,HSPD1_full,protein,129,0.491481
+6,HSPD1_full,protein,130,0.493408
+6,HSPD1_full,protein,131,0.494544
+6,HSPD1_full,protein,132,0.491592
+6,HSPD1_full,protein,133,0.493467
+6,HSPD1_full,protein,134,0.490737
+6,HSPD1_full,protein,135,0.492610
+6,HSPD1_full,protein,136,0.492870
+6,HSPD1_full,protein,137,0.494258
+6,HSPD1_full,protein,138,0.492890
+6,HSPD1_full,protein,139,0.495854
+6,HSPD1_full,protein,140,0.495837
+6,HSPD1_full,protein,141,0.496373
+6,HSPD1_full,protein,142,0.494454
+6,HSPD1_full,protein,143,0.493025
+6,HSPD1_full,protein,144,0.496445
+6,HSPD1_full,protein,145,0.495514
+6,HSPD1_full,protein,146,0.492153
+6,HSPD1_full,protein,147,0.492563
+6,HSPD1_full,protein,148,0.492647
+6,HSPD1_full,protein,149,0.492364
+6,HSPD1_full,protein,150,0.489955
+6,HSPD1_full,protein,151,0.497280
+6,HSPD1_full,protein,152,0.493463
+6,HSPD1_full,protein,153,0.489258
+6,HSPD1_full,protein,154,0.493576
+6,HSPD1_full,protein,155,0.496238
+6,HSPD1_full,protein,156,0.494635
+6,HSPD1_full,protein,157,0.489682
+6,HSPD1_full,protein,158,0.492771
+6,HSPD1_full,protein,159,0.492699
+6,HSPD1_full,protein,160,0.493958
+6,HSPD1_full,protein,161,0.490856
+6,HSPD1_full,protein,162,0.493352
+6,HSPD1_full,protein,163,0.489552
+6,HSPD1_full,protein,164,0.490655
+6,HSPD1_full,protein,165,0.491668
+6,HSPD1_full,protein,166,0.489738
+6,HSPD1_full,protein,167,0.490921
+6,HSPD1_full,protein,168,0.495884
+6,HSPD1_full,protein,169,0.490347
+6,HSPD1_full,protein,170,0.488302
+6,HSPD1_full,protein,171,0.491983
+6,HSPD1_full,protein,172,0.494055
+6,HSPD1_full,protein,173,0.489336
+6,HSPD1_full,protein,174,0.493617
+6,HSPD1_full,protein,175,0.490455
+6,HSPD1_full,protein,176,0.489960
+6,HSPD1_full,protein,177,0.491289
+6,HSPD1_full,protein,178,0.495263
+6,HSPD1_full,protein,179,0.491742
+6,HSPD1_full,protein,180,0.494060
+6,HSPD1_full,protein,181,0.491493
+6,HSPD1_full,protein,182,0.496086
+6,HSPD1_full,protein,183,0.491915
+6,HSPD1_full,protein,184,0.491345
+6,HSPD1_full,protein,185,0.495549
+6,HSPD1_full,protein,186,0.498335
+6,HSPD1_full,protein,187,0.494015
+6,HSPD1_full,protein,188,0.491581
+6,HSPD1_full,protein,189,0.490470
+6,HSPD1_full,protein,190,0.498434
+6,HSPD1_full,protein,191,0.495618
+6,HSPD1_full,protein,192,0.492063
+6,HSPD1_full,protein,193,0.494420
+6,HSPD1_full,protein,194,0.492685
+6,HSPD1_full,protein,195,0.491807
+6,HSPD1_full,protein,196,0.493802
+6,HSPD1_full,protein,197,0.492872
+6,HSPD1_full,protein,198,0.490904
+6,HSPD1_full,protein,199,0.497003
+6,HSPD1_full,protein,200,0.491881
+6,HSPD1_full,protein,201,0.495806
+6,HSPD1_full,protein,202,0.493501
+6,HSPD1_full,protein,203,0.493463
+6,HSPD1_full,protein,204,0.493527
+6,HSPD1_full,protein,205,0.492316
+6,HSPD1_full,protein,206,0.493141
+6,HSPD1_full,protein,207,0.494400
+6,HSPD1_full,protein,208,0.491426
+6,HSPD1_full,protein,209,0.493629
+6,HSPD1_full,protein,210,0.492390
+6,HSPD1_full,protein,211,0.495510
+6,HSPD1_full,protein,212,0.493095
+6,HSPD1_full,protein,213,0.494401
+6,HSPD1_full,protein,214,0.492628
+6,HSPD1_full,protein,215,0.492253
+6,HSPD1_full,protein,216,0.490764
+6,HSPD1_full,protein,217,0.494992
+6,HSPD1_full,protein,218,0.498356
+6,HSPD1_full,protein,219,0.495497
+6,HSPD1_full,protein,220,0.492769
+6,HSPD1_full,protein,221,0.492905
+6,HSPD1_full,protein,222,0.491643
+6,HSPD1_full,protein,223,0.495345
+6,HSPD1_full,protein,224,0.493545
+6,HSPD1_full,protein,225,0.490842
+6,HSPD1_full,protein,226,0.495070
+6,HSPD1_full,protein,227,0.494703
+6,HSPD1_full,protein,228,0.494507
+6,HSPD1_full,protein,229,0.496106
+6,HSPD1_full,protein,230,0.491945
+6,HSPD1_full,protein,231,0.492850
+6,HSPD1_full,protein,232,0.492203
+6,HSPD1_full,protein,233,0.489102
+6,HSPD1_full,protein,234,0.492476
+6,HSPD1_full,protein,235,0.494722
+6,HSPD1_full,protein,236,0.492651
+6,HSPD1_full,protein,237,0.492844
+6,HSPD1_full,protein,238,0.494627
+6,HSPD1_full,protein,239,0.495140
+6,HSPD1_full,protein,240,0.492353
+6,HSPD1_full,protein,241,0.487344
+6,HSPD1_full,protein,242,0.490740
+6,HSPD1_full,protein,243,0.492238
+6,HSPD1_full,protein,244,0.493538
+6,HSPD1_full,protein,245,0.494985
+6,HSPD1_full,protein,246,0.495524
+6,HSPD1_full,protein,247,0.490563
+6,HSPD1_full,protein,248,0.493000
+6,HSPD1_full,protein,249,0.494384
+6,HSPD1_full,protein,250,0.496420
+6,HSPD1_full,protein,251,0.495074
+6,HSPD1_full,protein,252,0.490188
+6,HSPD1_full,protein,253,0.490703
+6,HSPD1_full,protein,254,0.491859
+6,HSPD1_full,protein,255,0.493022
+6,HSPD1_full,protein,256,0.489364
+6,HSPD1_full,protein,257,0.494766
+6,HSPD1_full,protein,258,0.492470
+6,HSPD1_full,protein,259,0.493811
+6,HSPD1_full,protein,260,0.490862
+6,HSPD1_full,protein,261,0.496669
+6,HSPD1_full,protein,262,0.492603
+6,HSPD1_full,protein,263,0.492636
+6,HSPD1_full,protein,264,0.490284
+6,HSPD1_full,protein,265,0.495642
+6,HSPD1_full,protein,266,0.492817
+6,HSPD1_full,protein,267,0.492283
+6,HSPD1_full,protein,268,0.491275
+6,HSPD1_full,protein,269,0.494214
+6,HSPD1_full,protein,270,0.492749
+6,HSPD1_full,protein,271,0.493895
+6,HSPD1_full,protein,272,0.494428
+6,HSPD1_full,protein,273,0.494753
+6,HSPD1_full,protein,274,0.495000
+6,HSPD1_full,protein,275,0.490265
+6,HSPD1_full,protein,276,0.491213
+6,HSPD1_full,protein,277,0.493667
+6,HSPD1_full,protein,278,0.496984
+6,HSPD1_full,protein,279,0.494573
+6,HSPD1_full,protein,280,0.492841
+6,HSPD1_full,protein,281,0.492501
+6,HSPD1_full,protein,282,0.490550
+6,HSPD1_full,protein,283,0.494130
+6,HSPD1_full,protein,284,0.488635
+6,HSPD1_full,protein,285,0.490939
+6,HSPD1_full,protein,286,0.496852
+6,HSPD1_full,protein,287,0.493209
+6,HSPD1_full,protein,288,0.494150
+6,HSPD1_full,protein,289,0.492938
+6,HSPD1_full,protein,290,0.495389
+6,HSPD1_full,protein,291,0.493882
+6,HSPD1_full,protein,292,0.493429
+6,HSPD1_full,protein,293,0.493608
+6,HSPD1_full,protein,294,0.492873
+6,HSPD1_full,protein,295,0.492188
+6,HSPD1_full,protein,296,0.493301
+6,HSPD1_full,protein,297,0.495462
+6,HSPD1_full,protein,298,0.493360
+6,HSPD1_full,protein,299,0.491408
+6,HSPD1_full,protein,300,0.493347
+6,HSPD1_full,protein,301,0.494465
+6,HSPD1_full,protein,302,0.490941
+6,HSPD1_full,protein,303,0.493674
+6,HSPD1_full,protein,304,0.491859
+6,HSPD1_full,protein,305,0.492693
+6,HSPD1_full,protein,306,0.491972
+6,HSPD1_full,protein,307,0.490465
+6,HSPD1_full,protein,308,0.494615
+6,HSPD1_full,protein,309,0.492563
+6,HSPD1_full,protein,310,0.491515
+6,HSPD1_full,protein,311,0.492750
+6,HSPD1_full,protein,312,0.496447
+6,HSPD1_full,protein,313,0.498652
+6,HSPD1_full,protein,314,0.492714
+6,HSPD1_full,protein,315,0.490955
+6,HSPD1_full,protein,316,0.493795
+6,HSPD1_full,protein,317,0.493799
+6,HSPD1_full,protein,318,0.491719
+6,HSPD1_full,protein,319,0.492202
+6,HSPD1_full,protein,320,0.488311
+6,HSPD1_full,protein,321,0.492098
+6,HSPD1_full,protein,322,0.494321
+6,HSPD1_full,protein,323,0.493140
+6,HSPD1_full,protein,324,0.499255
+6,HSPD1_full,protein,325,0.494668
+6,HSPD1_full,protein,326,0.497234
+6,HSPD1_full,protein,327,0.491005
+6,HSPD1_full,protein,328,0.492369
+6,HSPD1_full,protein,329,0.494040
+6,HSPD1_full,protein,330,0.490787
+6,HSPD1_full,protein,331,0.490744
+6,HSPD1_full,protein,332,0.492754
+6,HSPD1_full,protein,333,0.490870
+6,HSPD1_full,protein,334,0.493467
+6,HSPD1_full,protein,335,0.492372
+6,HSPD1_full,protein,336,0.492777
+6,HSPD1_full,protein,337,0.490988
+6,HSPD1_full,protein,338,0.491662
+6,HSPD1_full,protein,339,0.495567
+6,HSPD1_full,protein,340,0.495167
+6,HSPD1_full,protein,341,0.496076
+6,HSPD1_full,protein,342,0.495282
+6,HSPD1_full,protein,343,0.494564
+6,HSPD1_full,protein,344,0.489434
+6,HSPD1_full,protein,345,0.493677
+6,HSPD1_full,protein,346,0.494238
+6,HSPD1_full,protein,347,0.491485
+6,HSPD1_full,protein,348,0.493592
+6,HSPD1_full,protein,349,0.495505
+6,HSPD1_full,protein,350,0.496036
+6,HSPD1_full,protein,351,0.488974
+6,HSPD1_full,protein,352,0.493835
+6,HSPD1_full,protein,353,0.493572
+6,HSPD1_full,protein,354,0.491534
+6,HSPD1_full,protein,355,0.489243
+6,HSPD1_full,protein,356,0.491833
+6,HSPD1_full,protein,357,0.494568
+6,HSPD1_full,protein,358,0.495494
+6,HSPD1_full,protein,359,0.493295
+6,HSPD1_full,protein,360,0.493265
+6,HSPD1_full,protein,361,0.493741
+6,HSPD1_full,protein,362,0.492812
+6,HSPD1_full,protein,363,0.488997
+6,HSPD1_full,protein,364,0.492714
+6,HSPD1_full,protein,365,0.488441
+6,HSPD1_full,protein,366,0.493168
+6,HSPD1_full,protein,367,0.495016
+6,HSPD1_full,protein,368,0.491146
+6,HSPD1_full,protein,369,0.490807
+6,HSPD1_full,protein,370,0.494951
+6,HSPD1_full,protein,371,0.494790
+6,HSPD1_full,protein,372,0.491840
+6,HSPD1_full,protein,373,0.490751
+6,HSPD1_full,protein,374,0.496147
+6,HSPD1_full,protein,375,0.495406
+6,HSPD1_full,protein,376,0.491885
+6,HSPD1_full,protein,377,0.495274
+6,HSPD1_full,protein,378,0.492997
+6,HSPD1_full,protein,379,0.490513
+6,HSPD1_full,protein,380,0.491971
+6,HSPD1_full,protein,381,0.495067
+6,HSPD1_full,protein,382,0.490591
+6,HSPD1_full,protein,383,0.489708
+6,HSPD1_full,protein,384,0.489760
+6,HSPD1_full,protein,385,0.493925
+6,HSPD1_full,protein,386,0.494866
+6,HSPD1_full,protein,387,0.495082
+6,HSPD1_full,protein,388,0.491395
+6,HSPD1_full,protein,389,0.492876
+6,HSPD1_full,protein,390,0.495313
+6,HSPD1_full,protein,391,0.495668
+6,HSPD1_full,protein,392,0.490580
+6,HSPD1_full,protein,393,0.493257
+6,HSPD1_full,protein,394,0.493714
+6,HSPD1_full,protein,395,0.491039
+6,HSPD1_full,protein,396,0.493211
+6,HSPD1_full,protein,397,0.496834
+6,HSPD1_full,protein,398,0.493228
+6,HSPD1_full,protein,399,0.488715
+6,HSPD1_full,protein,400,0.490605
+6,HSPD1_full,protein,401,0.490393
+6,HSPD1_full,protein,402,0.490476
+6,HSPD1_full,protein,403,0.492841
+6,HSPD1_full,protein,404,0.493784
+6,HSPD1_full,protein,405,0.495542
+6,HSPD1_full,protein,406,0.494450
+6,HSPD1_full,protein,407,0.490572
+6,HSPD1_full,protein,408,0.494064
+6,HSPD1_full,protein,409,0.489388
+6,HSPD1_full,protein,410,0.490017
+6,HSPD1_full,protein,411,0.493621
+6,HSPD1_full,protein,412,0.496988
+6,HSPD1_full,protein,413,0.495653
+6,HSPD1_full,protein,414,0.497720
+6,HSPD1_full,protein,415,0.492528
+6,HSPD1_full,protein,416,0.494880
+6,HSPD1_full,protein,417,0.494011
+6,HSPD1_full,protein,418,0.493985
+6,HSPD1_full,protein,419,0.495158
+6,HSPD1_full,protein,420,0.492633
+6,HSPD1_full,protein,421,0.497193
+6,HSPD1_full,protein,422,0.490644
+6,HSPD1_full,protein,423,0.491688
+6,HSPD1_full,protein,424,0.493291
+6,HSPD1_full,protein,425,0.497145
+6,HSPD1_full,protein,426,0.490928
+6,HSPD1_full,protein,427,0.491350
+6,HSPD1_full,protein,428,0.493372
+6,HSPD1_full,protein,429,0.493999
+6,HSPD1_full,protein,430,0.488757
+6,HSPD1_full,protein,431,0.494740
+6,HSPD1_full,protein,432,0.495315
+6,HSPD1_full,protein,433,0.491681
+6,HSPD1_full,protein,434,0.492132
+6,HSPD1_full,protein,435,0.490084
+6,HSPD1_full,protein,436,0.492774
+6,HSPD1_full,protein,437,0.494207
+6,HSPD1_full,protein,438,0.492738
+6,HSPD1_full,protein,439,0.492383
+6,HSPD1_full,protein,440,0.494135
+6,HSPD1_full,protein,441,0.493489
+6,HSPD1_full,protein,442,0.490708
+6,HSPD1_full,protein,443,0.492350
+6,HSPD1_full,protein,444,0.494855
+6,HSPD1_full,protein,445,0.495689
+6,HSPD1_full,protein,446,0.491317
+6,HSPD1_full,protein,447,0.496432
+6,HSPD1_full,protein,448,0.491347
+6,HSPD1_full,protein,449,0.492602
+6,HSPD1_full,protein,450,0.493746
+6,HSPD1_full,protein,451,0.494220
+6,HSPD1_full,protein,452,0.490250
+6,HSPD1_full,protein,453,0.491545
+6,HSPD1_full,protein,454,0.495227
+6,HSPD1_full,protein,455,0.489432
+6,HSPD1_full,protein,456,0.493222
+6,HSPD1_full,protein,457,0.491001
+6,HSPD1_full,protein,458,0.490093
+6,HSPD1_full,protein,459,0.492855
+6,HSPD1_full,protein,460,0.494057
+6,HSPD1_full,protein,461,0.496483
+6,HSPD1_full,protein,462,0.493583
+6,HSPD1_full,protein,463,0.495132
+6,HSPD1_full,protein,464,0.493936
+6,HSPD1_full,protein,465,0.494026
+6,HSPD1_full,protein,466,0.488973
+6,HSPD1_full,protein,467,0.495019
+6,HSPD1_full,protein,468,0.495798
+6,HSPD1_full,protein,469,0.492601
+6,HSPD1_full,protein,470,0.490946
+6,HSPD1_full,protein,471,0.496036
+6,HSPD1_full,protein,472,0.495042
+6,HSPD1_full,protein,473,0.492239
+6,HSPD1_full,protein,474,0.491038
+6,HSPD1_full,protein,475,0.492403
+6,HSPD1_full,protein,476,0.491254
+6,HSPD1_full,protein,477,0.494311
+6,HSPD1_full,protein,478,0.492681
+6,HSPD1_full,protein,479,0.495823
+6,HSPD1_full,protein,480,0.491045
+6,HSPD1_full,protein,481,0.494794
+6,HSPD1_full,protein,482,0.492249
+6,HSPD1_full,protein,483,0.492399
+6,HSPD1_full,protein,484,0.490759
+6,HSPD1_full,protein,485,0.491434
+6,HSPD1_full,protein,486,0.492666
+6,HSPD1_full,protein,487,0.492814
+6,HSPD1_full,protein,488,0.490853
+6,HSPD1_full,protein,489,0.489364
+6,HSPD1_full,protein,490,0.492321
+6,HSPD1_full,protein,491,0.495367
+6,HSPD1_full,protein,492,0.491705
+6,HSPD1_full,protein,493,0.491326
+6,HSPD1_full,protein,494,0.493828
+6,HSPD1_full,protein,495,0.494431
+6,HSPD1_full,protein,496,0.491037
+6,HSPD1_full,protein,497,0.491130
+6,HSPD1_full,protein,498,0.489584
+6,HSPD1_full,protein,499,0.492477
+6,HSPD1_full,protein,500,0.488475
+6,HSPD1_full,protein,501,0.494599
+6,HSPD1_full,protein,502,0.491601
+6,HSPD1_full,protein,503,0.495763
+6,HSPD1_full,protein,504,0.493726
+6,HSPD1_full,protein,505,0.491483
+6,HSPD1_full,protein,506,0.492520
+6,HSPD1_full,protein,507,0.489559
+6,HSPD1_full,protein,508,0.492186
+6,HSPD1_full,protein,509,0.492560
+6,HSPD1_full,protein,510,0.495504
+6,HSPD1_full,protein,511,0.492583
+6,HSPD1_full,protein,512,0.489187
+6,HSPD1_full,protein,513,0.491045
+6,HSPD1_full,protein,514,0.495825
+6,HSPD1_full,protein,515,0.488211
+6,HSPD1_full,protein,516,0.488307
+6,HSPD1_full,protein,517,0.492812
+6,HSPD1_full,protein,518,0.494419
+6,HSPD1_full,protein,519,0.493772
+6,HSPD1_full,protein,520,0.492318
+6,HSPD1_full,protein,521,0.489904
+6,HSPD1_full,protein,522,0.494244
+6,HSPD1_full,protein,523,0.493039
+6,HSPD1_full,protein,524,0.491260
+6,HSPD1_full,protein,525,0.494256
+6,HSPD1_full,protein,526,0.492782
+6,HSPD1_full,protein,527,0.491923
+6,HSPD1_full,protein,528,0.494672
+6,HSPD1_full,protein,529,0.496817
+6,HSPD1_full,protein,530,0.493979
+6,HSPD1_full,protein,531,0.493560
+6,HSPD1_full,protein,532,0.493484
+6,HSPD1_full,protein,533,0.490951
+6,HSPD1_full,protein,534,0.489912
+6,HSPD1_full,protein,535,0.493156
+6,HSPD1_full,protein,536,0.491289
+6,HSPD1_full,protein,537,0.490772
+6,HSPD1_full,protein,538,0.493473
+6,HSPD1_full,protein,539,0.496792
+6,HSPD1_full,protein,540,0.494246
+6,HSPD1_full,protein,541,0.491190
+6,HSPD1_full,protein,542,0.491707
+6,HSPD1_full,protein,543,0.495287
+6,HSPD1_full,protein,544,0.492358
+6,HSPD1_full,protein,545,0.493272
+6,HSPD1_full,protein,546,0.492955
+6,HSPD1_full,protein,547,0.492565
+6,HSPD1_full,protein,548,0.494197
+6,HSPD1_full,protein,549,0.492422
+6,HSPD1_full,protein,550,0.491303
+6,HSPD1_full,protein,551,0.491988
+6,HSPD1_full,protein,552,0.494095
+6,HSPD1_full,protein,553,0.492239
+6,HSPD1_full,protein,554,0.493228
+6,HSPD1_full,protein,555,0.491455
+6,HSPD1_full,protein,556,0.491460
+6,HSPD1_full,protein,557,0.492798
+6,HSPD1_full,protein,558,0.493096
+6,HSPD1_full,protein,559,0.493980
+6,HSPD1_full,protein,560,0.492562
+6,HSPD1_full,protein,561,0.495109
+6,HSPD1_full,protein,562,0.494127
+6,HSPD1_full,protein,563,0.494769
+6,HSPD1_full,protein,564,0.495807
+6,HSPD1_full,protein,565,0.495003
+6,HSPD1_full,protein,566,0.494455
+6,HSPD1_full,protein,567,0.496327
+6,HSPD1_full,protein,568,0.496369
+6,HSPD1_full,protein,569,0.494845
+6,HSPD1_full,protein,570,0.496313
+6,HSPD1_full,protein,571,0.496917
+6,HSPD1_full,protein,572,0.493565
+6,HSPD1_full,protein,573,0.494828
+7,CIGB-814,peptide,1,0.492367
+7,CIGB-814,peptide,2,0.494661
+7,CIGB-814,peptide,3,0.497177
+7,CIGB-814,peptide,4,0.494713
+7,CIGB-814,peptide,5,0.496321
+7,CIGB-814,peptide,6,0.490883
+7,CIGB-814,peptide,7,0.494057
+7,CIGB-814,peptide,8,0.494121
+7,CIGB-814,peptide,9,0.493104
+7,CIGB-814,peptide,10,0.495600
+7,CIGB-814,peptide,11,0.493896
+7,CIGB-814,peptide,12,0.495478
+7,CIGB-814,peptide,13,0.491958
+7,CIGB-814,peptide,14,0.495170
+7,CIGB-814,peptide,15,0.496933
+7,CIGB-814,peptide,16,0.494816
+7,CIGB-814,peptide,17,0.494009
+7,CIGB-814,peptide,18,0.494836
+7,CIGB-814,peptide,19,0.494017
+7,CIGB-814,peptide,20,0.493701
+7,CIGB-814,peptide,21,0.492415
+7,CIGB-814,peptide,22,0.494074
+7,CIGB-814,peptide,23,0.493744
+7,CIGB-814,peptide,24,0.493111
+7,CIGB-814,peptide,25,0.492954
+7,CIGB-814,peptide,26,0.494002
+7,CIGB-814,protein,1,0.491453
+7,CIGB-814,protein,2,0.492006
+7,CIGB-814,protein,3,0.489292
+7,CIGB-814,protein,4,0.491726
+7,CIGB-814,protein,5,0.490172
+7,CIGB-814,protein,6,0.491103
+7,CIGB-814,protein,7,0.492324
+7,CIGB-814,protein,8,0.491734
+7,CIGB-814,protein,9,0.491655
+7,CIGB-814,protein,10,0.490794
+7,CIGB-814,protein,11,0.493859
+7,CIGB-814,protein,12,0.492228
+7,CIGB-814,protein,13,0.490894
+7,CIGB-814,protein,14,0.490116
+7,CIGB-814,protein,15,0.490030
+7,CIGB-814,protein,16,0.493552
+7,CIGB-814,protein,17,0.492236
+7,CIGB-814,protein,18,0.490920
+7,CIGB-814,protein,19,0.492569
+7,CIGB-814,protein,20,0.490549
+7,CIGB-814,protein,21,0.492485
+7,CIGB-814,protein,22,0.491442
+7,CIGB-814,protein,23,0.491295
+7,CIGB-814,protein,24,0.491048
+7,CIGB-814,protein,25,0.491056
+7,CIGB-814,protein,26,0.490286
+7,CIGB-814,protein,27,0.494774
+8,HSP60_epitope(83-109)_HSPD1,peptide,1,0.492367
+8,HSP60_epitope(83-109)_HSPD1,peptide,2,0.494661
+8,HSP60_epitope(83-109)_HSPD1,peptide,3,0.497177
+8,HSP60_epitope(83-109)_HSPD1,peptide,4,0.494713
+8,HSP60_epitope(83-109)_HSPD1,peptide,5,0.496321
+8,HSP60_epitope(83-109)_HSPD1,peptide,6,0.490883
+8,HSP60_epitope(83-109)_HSPD1,peptide,7,0.494057
+8,HSP60_epitope(83-109)_HSPD1,peptide,8,0.494121
+8,HSP60_epitope(83-109)_HSPD1,peptide,9,0.493104
+8,HSP60_epitope(83-109)_HSPD1,peptide,10,0.495600
+8,HSP60_epitope(83-109)_HSPD1,peptide,11,0.493896
+8,HSP60_epitope(83-109)_HSPD1,peptide,12,0.495478
+8,HSP60_epitope(83-109)_HSPD1,peptide,13,0.491958
+8,HSP60_epitope(83-109)_HSPD1,peptide,14,0.495170
+8,HSP60_epitope(83-109)_HSPD1,peptide,15,0.496933
+8,HSP60_epitope(83-109)_HSPD1,peptide,16,0.494816
+8,HSP60_epitope(83-109)_HSPD1,peptide,17,0.494009
+8,HSP60_epitope(83-109)_HSPD1,peptide,18,0.494836
+8,HSP60_epitope(83-109)_HSPD1,peptide,19,0.494017
+8,HSP60_epitope(83-109)_HSPD1,peptide,20,0.493701
+8,HSP60_epitope(83-109)_HSPD1,peptide,21,0.492415
+8,HSP60_epitope(83-109)_HSPD1,peptide,22,0.494074
+8,HSP60_epitope(83-109)_HSPD1,peptide,23,0.493744
+8,HSP60_epitope(83-109)_HSPD1,peptide,24,0.493111
+8,HSP60_epitope(83-109)_HSPD1,peptide,25,0.492954
+8,HSP60_epitope(83-109)_HSPD1,peptide,26,0.494002
+8,HSP60_epitope(83-109)_HSPD1,protein,1,0.491453
+8,HSP60_epitope(83-109)_HSPD1,protein,2,0.492006
+8,HSP60_epitope(83-109)_HSPD1,protein,3,0.489292
+8,HSP60_epitope(83-109)_HSPD1,protein,4,0.491726
+8,HSP60_epitope(83-109)_HSPD1,protein,5,0.490172
+8,HSP60_epitope(83-109)_HSPD1,protein,6,0.491103
+8,HSP60_epitope(83-109)_HSPD1,protein,7,0.492324
+8,HSP60_epitope(83-109)_HSPD1,protein,8,0.491734
+8,HSP60_epitope(83-109)_HSPD1,protein,9,0.491655
+8,HSP60_epitope(83-109)_HSPD1,protein,10,0.490794
+8,HSP60_epitope(83-109)_HSPD1,protein,11,0.493859
+8,HSP60_epitope(83-109)_HSPD1,protein,12,0.492228
+8,HSP60_epitope(83-109)_HSPD1,protein,13,0.490894
+8,HSP60_epitope(83-109)_HSPD1,protein,14,0.490116
+8,HSP60_epitope(83-109)_HSPD1,protein,15,0.490030
+8,HSP60_epitope(83-109)_HSPD1,protein,16,0.493552
+8,HSP60_epitope(83-109)_HSPD1,protein,17,0.492236
+8,HSP60_epitope(83-109)_HSPD1,protein,18,0.490920
+8,HSP60_epitope(83-109)_HSPD1,protein,19,0.492569
+8,HSP60_epitope(83-109)_HSPD1,protein,20,0.490549
+8,HSP60_epitope(83-109)_HSPD1,protein,21,0.492485
+8,HSP60_epitope(83-109)_HSPD1,protein,22,0.491442
+8,HSP60_epitope(83-109)_HSPD1,protein,23,0.491295
+8,HSP60_epitope(83-109)_HSPD1,protein,24,0.491048
+8,HSP60_epitope(83-109)_HSPD1,protein,25,0.491056
+8,HSP60_epitope(83-109)_HSPD1,protein,26,0.490286
+8,HSP60_epitope(83-109)_HSPD1,protein,27,0.494774

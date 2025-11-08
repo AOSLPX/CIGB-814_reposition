@@ -1,0 +1,9 @@
+peptide,target,probability
+CIGB-814,TLR2_ectodomain,0.505127
+CIGB-814,HLA-DRA (alpha chain),0.503569
+CIGB-814,HLA-DRB1 (beta chain),0.502830
+CIGB-814,CD4_extracellular,0.502720
+CIGB-814,TLR4_ectodomain,0.502293
+CIGB-814,HSPD1_full,0.498022
+CIGB-814,CIGB-814,0.497126
+CIGB-814,HSP60_epitope(83-109)_HSPD1,0.497126
